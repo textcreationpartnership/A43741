@@ -1,0 +1,1916 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fair-play on both sides: or, the surest way to heaven Discovered in a dispute between a Roman-Catholick, and a Protestant.</title>
+            <author>Hieron, Samuel, 1576?-1617.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 102 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43741</idno>
+            <idno type="STC">Wing H1943</idno>
+            <idno type="STC">ESTC R224206</idno>
+            <idno type="EEBO-CITATION">99834510</idno>
+            <idno type="PROQUEST">99834510</idno>
+            <idno type="VID">39011</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43741)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39011)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1811:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fair-play on both sides: or, the surest way to heaven Discovered in a dispute between a Roman-Catholick, and a Protestant.</title>
+                  <author>Hieron, Samuel, 1576?-1617.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Head, at the Heart and Bible in Little-Brittain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Sam Hieron.</note>
+                  <note>Reproduction of the original in the Union theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39011:1"/>
+            <p>Fair-Play on both ſides: OR, The ſureſt way to HEAVEN.</p>
+            <p>DISCOVERED IN A DISPUTE BETWEEN A Roman-Catholick, AND A PROTESTANT.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Head,</hi> at the <hi>Heart</hi> and <hi>Bible</hi> in <hi>Little-Brittain,</hi> 1666.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:39011:2"/>
+            <pb facs="tcp:39011:2"/>
+            <head>To my much eſteemed Friend, Mr. <hi>J. L.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">Y</seg>OU will wonder, I am ſure (conſidering my profeſſion) to ſee me become a Poet. And indeed I do almoſt mar<g ref="char:EOLhyphen"/>vel at my ſelf, knowing my ſelf to want the two principal furtherances of Poetry; <hi>the one is Na<g ref="char:EOLhyphen"/>tures inſtinct,</hi> 
+               <note n="(a)" place="margin">They ſay, <hi>Poeta noſcitur</hi> If a man be not as it were a Poet born, he ſhall never prove excel<g ref="char:EOLhyphen"/>lent in that faculty.</note> which God in his holy providence hath denyed me: the other is, <hi>A certain retired free<g ref="char:EOLhyphen"/>dom from all ſuch buſineſſes which may breed deſtraction;</hi> 
+               <note n="(b)" place="margin">Carmina ſeceſſum ſcri<g ref="char:EOLhyphen"/>bentis &amp; otia quae unt. <hi>Ovid. de. Triſt.</hi>
+               </note> which my publick calling, beſides private encomberances, will not afford me. Yet notwithſtanding, upon this preſent occaſion, I have even forced my ſelf to this ſtrait<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r courſe of verſe-making; though I know, that for my own eaſe (having to deal in ſuch a diſtempered and unruly ſubject) that leſs limited, and freer kind of diſcourſe, which Proſe alloweth, had been more convenient, becauſe the Rules of Cadence &amp; number (to which our Engliſh Poetry ſpecially is confined) do many times ſo ſtreighten an unaccuſtomed Practitioner, that he is in hazard, either of obſcuring the ſence (which in a matter of this na<g ref="char:EOLhyphen"/>ture were ſomething dangerous) or of marring the Verſe (which to the apprehenſion of every common conceit, were very ridiculous.) But howſoever I have erred in the carriage of this Verſe, I hope, to you and to others, whoſe favour, either becauſe of their judgement, or their honeſty, I deſire, this ſhall excuſe me; that meeting with our common Adverſary (who appeareth ſometime in ſhape of a States<g ref="char:EOLhyphen"/>man, debating of Titles, and common-wealth affairs, <note n="(c)" place="margin">Witneſs the <hi>Quodli<g ref="char:EOLhyphen"/>bets, &amp;c.</hi>
+               </note> ſometime as a Petitioner to the King and Parliament, <note n="(d)" place="margin">At the Kings firſt coming, and now ſince the Parliament.</note> ſometime as a plauſible Perſwader, <note n="(e)" place="margin">
+                  <hi>B<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſtows</hi> Motives, and Books of that nature.</note> ſometime as a reſtorer of the holy Text, to the native purity thereof <note n="(f)" place="margin">Rhem. Teſt. &amp; Grego. Martin.</note> ſometime as a man of a very tender conſcience, giving reaſons why he cannot come to our Aſſemblies, <note n="(g)" place="margin">Howlet.</note> ſometime as a Raylor at our Government, and an approver of our open enemies <note n="(h)" place="margin">
+                  <hi>The ward-word.</hi> Quo te<g ref="char:EOLhyphen"/>neam vultus mutantem, Proted nodo?</note> that I ſay, meeting with this time-ſerving <hi>Proteus,</hi> in the faſhion of a Rimer or Balladins, <hi>and crept in</hi> (as the manner of falſe Bre<g ref="char:EOLhyphen"/>thren 1<pb facs="tcp:39011:3"/> is) <note n="(i)" place="margin">
+                  <hi>Galat. 2.4.</hi> Similes habet labra lactucas.</note> into <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth the ha<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſimple ſedu<g ref="char:EOLhyphen"/>ced; <hi>I have endeavoured to make <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> like the Lips</hi> (as the Proverb is) <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ſing, to <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I am ſure (without wilful forſaking the plain truth of God, <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> I ſhall <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>The ſervice it <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> here <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, <note n="(k)" place="margin">He confeſ<g ref="char:EOLhyphen"/>eth he <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Proteſtant.</note> is <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> though <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſay the truth it <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> through <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> yet ſet forth after any good or <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> but it is even <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of certain <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>egations (as to there the <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>avings and ſcraps of <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> order or proof <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> word of <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> than Or<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Belike, the <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>rough for thoſe for whom it was provided, as <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it is for thoſe <hi>which turn their ears from the Truth, and are given unto fables:</hi> 
+               <note n="(l)" place="margin">2 Tim. 4.4</note> and by ſome, upon my knowledge (to whom <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> me, <hi>God hath ſent ſtrong deluſions, that they ſhould believe <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>)</hi> 
+               <note n="(m)" place="margin">
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. The<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2.11.</note> it is highly magnified, as a ſpecial preſervative againſt ſuppoſed Hereſie, and as a well-framed Sconce, which none of us all is able to overthrow.</p>
+            <p>In regard whereof, knowing my ſelf <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> others, <hi>to con<g ref="char:EOLhyphen"/>tend earneſtly for the maintainance <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>;</hi> 
+               <note n="(n)" place="margin">Iude. 3.<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2 1<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> I have un<g ref="char:EOLhyphen"/>dertaken this which you here ſee, For my deſire and true intent there<g ref="char:EOLhyphen"/>in, it is beſt known <hi>to him which ſeeth in <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> 
+               <note n="(o)" place="margin">Ma<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and in his due time <hi>will make the counſels of all hearts manifeſt.</hi> 
+               <note n="(p)" place="margin">1 Cor. 4.<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>Touching the thing it ſelf, how it is, and how well it is, I ſubmit it to the ſenſure of the godly-wiſe, praying them, that with their fa<g ref="char:EOLhyphen"/>vourable (if not allowance, yet at leaſt) connivance, it may paſs to the uſe of thoſe, to whom it is intended: And among others, I have di<g ref="char:EOLhyphen"/>rected it eſpecially to you, in part of recompence for a great deal of kindneſs intreating you to entertain <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with the like meaſure of Love; wherein it is offered. And ſo <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ching God <hi>to fill you with the fruits of Righteouſneſs</hi> 
+               <note n="(q)" place="margin">Phil. 1.11.</note>, I command you to his grace in Chriſt Jeſus.</p>
+            <closer>
+               <signed>Your loving Friend, SAM. HIERON.</signed>
+               <dateline>
+                  <hi>Modbury,</hi> 
+                  <date>
+                     <hi>Aug. 20. 1604.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:39011:3"/>
+            <head>
+               <hi>FAIR PLAY:</hi> Or a Diſpute between a PROTESTANT and a ROMAN-CATHOLICK. <hi>Wherein the true Religion is made clear to the meaneſt capacity.</hi>
+            </head>
+            <div type="Papist_preface">
+               <head>
+                  <hi>Roman Catholick's</hi> Preface.</head>
+               <l>I Pray thee, <hi>Proteſtant,</hi> bear with me, <note n="(a)" place="margin">Indeed a man had need to be very patient that meaneth to hear thee.</note>
+               </l>
+               <l>To ask thee Queſtions two or three:</l>
+               <l>And if an anſwer thou canſt make,</l>
+               <l>More of thy counſel I will take. <note n="(b)" place="margin">Yet I fear, that though thou wert brayed in a Mortar with a Peſtel, a<g ref="char:EOLhyphen"/>mong Wheat, thy fooliſhneſs will not depart from thee, <hi>Prov. 27.22.</hi>
+                  </note>
+               </l>
+               <l>Many ſundry Sects appear,</l>
+               <l>Now in the world far and near,</l>
+               <l>The <hi>Calviniſt,</hi> the <hi>Proteſtant,</hi>
+               </l>
+               <l>The <hi>Zwinglian,</hi> the <hi>Puritant,</hi>
+               </l>
+               <l>The <hi>Browneſt,</hi> and the <hi>Family of Love,</hi>
+               </l>
+               <l>And many more which I can prove,</l>
+               <l>And the <hi>Roman</hi> Faith truly,</l>
+               <l>Which you call <hi>Papiſtry.</hi>
+               </l>
+               <l>And every one confeſs <hi>Jeſu,</hi>
+               </l>
+               <l>Saying that their Faith is true:</l>
+               <l>But amongſt theſe, tell me how</l>
+               <l>The <hi>Truth</hi> from feigned lies to know.</l>
+               <l>All theſe in very deed,</l>
+               <l>Reherſe all Articles in the Creed;</l>
+               <l>And every one of them ſaith,</l>
+               <l>That theirs is the <hi>Catholick Faith:</hi>
+               </l>
+               <l>But this it is that I do ſeek, <note n="(c)" place="margin">I believe, thou art one of thoſe, which are ever learning, and never come to the knowledge of the Truth, <hi>2 Tim. 3.7.</hi> Take the Lanthorn which <hi>David</hi> uſed, and thou ſhalt ſoon find the true Church, <hi>Pſal. 119.105.</hi>
+                  </note>
+               </l>
+               <l>To know the Church <hi>Catholick,</hi>
+               </l>
+               <l>The Communion or Company</l>
+               <l>Of holy men in Unity.</l>
+            </div>
+            <div type="Protestant_answer">
+               <head>
+                  <hi>Proteſtants</hi> Anſwer.</head>
+               <head>His Preface.</head>
+               <l>I May not <hi>(Papist)</hi> ſuffer thee,</l>
+               <l>Becauſe thy Queſtions idle be:</l>
+               <l>And if my Counſel thou wilt take,</l>
+               <l>Then hear the anſwer I will make.</l>
+               <pb n="2" facs="tcp:39011:4"/>
+               <l>Thou tell'ſt of Sects that do appear,</l>
+               <l>And ſeem'ſt the truth glad to inquire:</l>
+               <l>But ev'n in this I malice ſmell,</l>
+               <l>And ſee thy ſpiteful meaning well.</l>
+               <l>When thou theſe divers Sects doſt name,</l>
+               <l>Thou wouldſt thereby our Church defame <note n="(d)" place="margin">I have reaſon ſo to think, becauſe the multitude of ſuppoſed Sects amongſt us, is a common imputation. See <hi>Briſt. Motives, pag. 10.</hi>
+                  </note>
+               </l>
+               <l>And make fools think that we them lov'd,</l>
+               <l>When as with us th' are not approv'd.</l>
+               <l>We do not hang on <hi>Clavins</hi> ſleeve,</l>
+               <l>Nor yet on <hi>Zwinglius</hi> we believe:</l>
+               <l>And <hi>Puritans</hi> we do deſie,</l>
+               <l>If right the name you do apply. <note n="(e)" place="margin">
+                     <hi>Viz.</hi> If either by that name, are un<g ref="char:EOLhyphen"/>derſtood thoſe ancient <hi>Hereticks,</hi> called <hi>Cathari,</hi> who dreamed of a ſtate of per<g ref="char:EOLhyphen"/>fection in this life, (ſo as <hi>Papiſts</hi> alſo do) or elſe ſuch factious ones among us, which have ſought the ſpoile and ha<g ref="char:EOLhyphen"/>vock of the Church.</note>
+               </l>
+               <l>All giddy Sects among us crept,</l>
+               <l>We wiſh out of our Church were ſwept:</l>
+               <l>No name do we delight in more,</l>
+               <l>Then that at <hi>Antioch</hi> given of yore. <note n="(f)" place="margin">
+                     <hi>Chriſtians.</hi> Acts 11.26.</note>
+               </l>
+               <l>But now what Sects you <hi>Papiſts</hi> have,</l>
+               <l>I do but thy own witneſs crave:</l>
+               <l>Some <hi>Capucines,</hi> ſome <hi>Franciſcans,</hi>
+               </l>
+               <l>And ſome be called <hi>Dominicans:</hi>
+               </l>
+               <l>Some <hi>Jeſuites,</hi> ſome <hi>Seculars,</hi> 
+                  <note n="(b)" place="margin">The emulation and difference be<g ref="char:EOLhyphen"/>twixt theſe two their Quodlibets do ſhew.</note>
+               </l>
+               <l>Some <hi>gray,</hi> ſome <hi>black,</hi> ſome <hi>white Friars:</hi>
+               </l>
+               <l>And that your ſtore may not be ſpent,</l>
+               <l>New Locuſts ſtill from Hell are ſent. <note n="(c)" place="margin">
+                     <hi>Rev. 9.3.</hi> Thoſe Locuſts do well repreſent the <hi>Popes</hi> Clergie: they were bred of the ſmoak of the pit, ſo are theſe of <hi>Hereſie,</hi> Ignorance and Superſtition: they deſtroy the fruits of the earth; ſo theſe ſpoile the Church.</note>
+               </l>
+               <l>Thou ſaiſt, thou would the Church find out:</l>
+               <l>So that I ſee thou art in doubt:</l>
+               <l>And ſo indeed Uncertainty</l>
+               <l>Is ſtill the fruit of <hi>Popery.</hi>
+               </l>
+            </div>
+            <div type="Papist_speech">
+               <head>Popiſh Rime.</head>
+               <head>Catholick.</head>
+               <l>IN your Bible I have read,</l>
+               <l>The Church muſt through the world be ſpread:</l>
+               <l>For Chriſt he his Apoſtles ſent,</l>
+               <l>With Power and Commandement,</l>
+               <l>That to all Nations they ſhould go,</l>
+               <l>To Preach, and to Baptize alſo.</l>
+               <l>Who hath done this? to know I wiſh:</l>
+               <l>For that is ſure the Church of Chriſt. <note n="(d)" place="margin">I hope thou wilt not ſay that <hi>Rome</hi> hath done this: the charge was given and undertaken before <hi>Rome</hi> was con<g ref="char:EOLhyphen"/>verted.</note>
+               </l>
+               <pb n="3" facs="tcp:39011:4"/>
+               <l>And for example, let me know,</l>
+               <l>And if thou canſt, I pray thee ſhow,</l>
+               <l>What Church did take in hand</l>
+               <l>The firſt converſion of this Land. <note n="(e)" place="margin">The Apoſtles Church, for ought you can prove to the contrary.</note>
+               </l>
+               <l>And all other Countries every where,</l>
+               <l>Throughout the world far and near; <note n="(f)" place="margin">Who but a Papiſt would dare to ſay this?</note>
+               </l>
+               <l>If this were not the Church of <hi>Rome,</hi>
+               </l>
+               <l>Then will I be converted ſoon. <note n="(g)" place="margin">You build your faith upon a very ſure ground.</note>
+               </l>
+               <l>Saint <hi>Paul</hi> in his Epiſtle ſaith, <note n="(h)" place="margin">Did Paul ſay that Rome ſhall ne<g ref="char:EOLhyphen"/>ver deny the Faith?</note>
+               </l>
+               <l>The <hi>Romans</hi> had the <hi>Catholick</hi> Faith,</l>
+               <l>Saying it was renowned,</l>
+               <l>Spoken of, or publiſhed,</l>
+               <l>Through the world over all,</l>
+               <l>Catholick, Univerſal:</l>
+               <l>And if your Churches were even ſo <note n="(i)" place="margin">Our Church is a part of the Catho<g ref="char:EOLhyphen"/>lick Church: diſprove it if you can.</note>
+               </l>
+               <l>Then to your Churches I would go.<note n="(k)" place="margin">You may come to our Churches; the Pope giveth you leave, ſo that you keep your hearts to him.</note>
+               </l>
+            </div>
+            <div type="Protestant_answer">
+               <head>Proteſtants Anſwer.</head>
+               <head>Catholick.</head>
+               <l>IN our Bible thou haſt read:</l>
+               <l>'Tis well in ours, for yours is fled,</l>
+               <l>And lurketh in a tongue unus'd,</l>
+               <l>Whereby poor people are abus'd.</l>
+               <l>The Church is Catholick, as you ſay,</l>
+               <l>And ſo ſay we: but why <note n="†" place="margin">The reaſon why the Church is called <hi>Catholick.</hi>
+                  </note> I pray?</l>
+               <l>Becauſe to it, it were diſgrace,</l>
+               <l>To limit it to time or place.</l>
+               <l>It ever was, and ſo ſhall be,</l>
+               <l>Since Chriſt, excluding no degree: <note n="(l)" place="margin">
+                     <hi>Col.</hi> 3.11. <hi>Acts</hi> 10.34, 35.</note>
+               </l>
+               <l>It once was ty'd unto the <hi>Jews,</hi>
+               </l>
+               <l>But now no place <note n="(m)" place="margin">
+                     <hi>Auſtine</hi> ſaith it is Catholick, be<g ref="char:EOLhyphen"/>cauſe ſpread over the world, <hi>Ep. 170.</hi> and thereto agreeth the Scripture, <hi>Acts 1.8.</hi>
+                  </note> it doth refuſe.</l>
+               <l>It is a very fond ſurmiſe,</l>
+               <l>Which you the <hi>Papiſt</hi> do deviſe,</l>
+               <l>To ſhut the Church within <hi>Romes</hi> wall,</l>
+               <l>And yet to call it general. <note n="(n)" place="margin">Catholick and general are all one; and therefore one of their own Councels ſaith, The <hi>Roman</hi> Church is not the Univerſal Church, but of the Univerſal Church, <hi>Baſil. Con. ſy. 3.</hi>
+                  </note>
+               </l>
+               <l>The very name which you pretend,</l>
+               <l>Whereby your Church you would defend,</l>
+               <l>To all which do the meaning know,</l>
+               <l>Doth quite your fancy overthrow.</l>
+               <pb n="4" facs="tcp:39011:5"/>
+               <l>You ſay, the charge, which Chriſt once gave,</l>
+               <l>The <hi>Romiſts</hi> well performed have:</l>
+               <l>But mark how thou thy ſelf doſt hurt,</l>
+               <l>And lay <hi>Romes</hi> honour in the dirt.</l>
+               <l>That charge <note n="(i)" place="margin">
+                     <hi>Viz.</hi> of preaching through the world.</note> was given firſt to them,</l>
+               <l>Which lived at <hi>Jeruſalem,</hi> 
+                  <note n="(k)" place="margin">The Apoſtles, Mat. <hi>28.</hi> Acts <hi>1.</hi>
+                  </note>
+               </l>
+               <l>And thence the Goſpel iſſued out, <note n="(l)" place="margin">
+                     <hi>Acts</hi> 8.1.</note>
+               </l>
+               <l>As <hi>Eſay</hi> told <note n="(m)" place="margin">
+                     <hi>Iſa.</hi> 2.3.</note> the world throughout.</l>
+               <l>By them the Nations turned were, <note n="(n)" place="margin">We read in Hiſtories, as in <hi>Euſe<g ref="char:EOLhyphen"/>bius</hi> and others, how the Apoſtles di<g ref="char:EOLhyphen"/>vided themſelves into all the quarters of the world.</note>
+               </l>
+               <l>And thence of Chriſt <hi>Rome</hi> firſt did hear:</l>
+               <l>Yet now the place <note n="(o)" place="margin">Jeruſalem.</note> which others call'd,</l>
+               <l>To <hi>Turkiſh</hi> Empire is enthrall'd.</l>
+               <l>So though't were true, which is not ſo,</l>
+               <l>And never ſhall be prov'd I know,</l>
+               <l>That <hi>Rome</hi> to Chriſt the Nations brought,</l>
+               <l>Yet this your reaſon were ſtark nought.</l>
+               <l>But now (perhaps) <hi>Rome</hi> doth, you'l ſay,</l>
+               <l>Bring home the wanderers to the way.</l>
+               <l>Indeed the <hi>Spaniards</hi> loving Gold,</l>
+               <l>Have brought the <hi>Indians</hi> to your fold.</l>
+               <l>The Frogs from <hi>Euphrates</hi> came out, <note n="(p)" place="margin">
+                     <hi>Euphrates</hi> was a great river run<g ref="char:EOLhyphen"/>ning near the old <hi>Babylon</hi> in <hi>Chaldea,</hi> and was the defence of the City. <hi>Cyrus</hi> and <hi>Darius</hi> could never take the City, until by policy they dryed up the River. Now in a ſpiritual ſenſe, it doth ſigni<g ref="char:EOLhyphen"/>fie the honour, wealth and authority of <hi>Rome,</hi> which hath of latter years de<g ref="char:EOLhyphen"/>cayed excedingly, and doth daily; and the frogs, mentioned in Apoc. <hi>16.13.</hi> do well reſemble the <hi>Jeſuites,</hi> who feel<g ref="char:EOLhyphen"/>ing <hi>Euphrates</hi> to dry up, beſtir them<g ref="char:EOLhyphen"/>ſelves, and are croaking like Frogs in every corner, labouring to maintain the <hi>Popes</hi> Authority.</note>
+               </l>
+               <l>I mean, the <hi>Jeſuited</hi> Rout,</l>
+               <l>Do ſpread themſelves in each countrey,</l>
+               <l>To draw men to diſloyalty.</l>
+               <l>They counſel Subjects kill their Kings,</l>
+               <l>Stabbings they uſe, and poyſonings. <note n="(q)" place="margin">Our Countrey and times afford ſtore of examples to prove this.</note>
+               </l>
+               <l>Chriſt gave no ſuch commandement,</l>
+               <l>When firſt he his Diſciples ſent.</l>
+               <l>Of this converſion if you boaſt,</l>
+               <l>Whereby poor ſouls, Hell hath engroſt,</l>
+               <l>I yeeld it you full willingly,</l>
+               <l>It well agrees with <hi>Popery.</hi>
+               </l>
+               <l>To draw Diſciples is no mark,</l>
+               <l>For ſo doth many a feigned Clark. <note n="(r)" place="margin">2 <hi>Pet.</hi> 2.1, 2. <hi>Acts</hi> 20.30.</note>
+               </l>
+               <l>The Church to truth which doth convert,</l>
+               <l>We do embrace with all our heart.</l>
+               <l>Thou ſayſt, <hi>Romes</hi> Faith once over all</l>
+               <l>The world was famous (ſo ſaith <hi>Paul</hi>) <note n="(ſ)" place="margin">
+                     <hi>Rom.</hi> 1.8.</note>
+               </l>
+               <l>And <hi>Rome</hi> did firſt convert our Land,</l>
+               <l>And hereupon you greatly ſtand.</l>
+               <pb n="5" facs="tcp:39011:5"/>
+               <l>
+                  <hi>Romes</hi> faith indeed once bare the bell,</l>
+               <l>And ſo it did deſerve it well:</l>
+               <l>But <hi>Rome's</hi> not now as heretofore;</l>
+               <l>That faithful Citie's made a Whore. <note n="(t)" place="margin">
+                     <hi>Iſa. 1.21.</hi> So it was ſaid of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> which had more excellent particu<g ref="char:EOLhyphen"/>lar promiſes, then Rome can alledge any.</note>
+               </l>
+               <l>If new <hi>Rome</hi> now, were as the old,</l>
+               <l>Then we with <hi>Romaniſts</hi> would hold.</l>
+               <l>If <hi>Rome</hi> become Chriſts enemy,</l>
+               <l>Then we from <hi>Babylon</hi> muſt flie. <note n="(t)" place="margin">Apoc. 18.4.</note>
+               </l>
+               <l>To ſay that <hi>Rome</hi> is therefore ſound,</l>
+               <l>Becauſe of old it was renownd,</l>
+               <l>It may a <hi>Papiſt</hi> ſatisfie:</l>
+               <l>But men of judgement it deny.</l>
+               <l>
+                  <hi>Paul</hi> never <hi>Rome</hi> did magnifie,</l>
+               <l>As he did thoſe of <hi>Theſſaly:</hi> 
+                  <note n="†" place="margin">See 1 <hi>Theſſ.</hi> 1.3, 4, 5, 6, 7, 8.</note>
+               </l>
+               <l>Yet now that Church is clean defac't,</l>
+               <l>And there the <hi>Turk</hi> himſelf hath plac't.</l>
+               <l>The <hi>Aſian</hi> Churches, <note n="(x)" place="margin">Epheſus, Smyrna, Pergamus, Thy<g ref="char:EOLhyphen"/>atira, Sardis, Philadelphia, Laodicea, <hi>Apoc. 1.11.</hi>
+                  </note> famous once,</l>
+               <l>Are turned to a heap of ſtones.</l>
+               <l>The golden lights <note n="(y)" place="margin">Thoſe ſeven Churches were repre<g ref="char:EOLhyphen"/>ſented by ſeven golden Candleſticks, <hi>Apoc. 1.20.</hi>
+                  </note> of Saint <hi>Johns</hi> age,</l>
+               <l>Are now become even Sathans cage.</l>
+               <l>Prove thou, that <hi>Rome</hi> hath not declind</l>
+               <l>From th' ancient Church by <hi>Pauls</hi> reſind:</l>
+               <l>And then I'le ſay, thou haſt done more</l>
+               <l>Then ever <hi>Papiſt</hi> did before.</l>
+               <l>But for firſt turning of our Nation,</l>
+               <l>I trow thou nam'ſt it but for faſhion:</l>
+               <l>For they that look in Hiſtory,</l>
+               <l>Thereof can find no certainty.</l>
+               <l>
+                  <hi>Simon Zelotes,</hi> as ſome ſay <note n="(z)" place="margin">Niceph. lib. <hi>2.</hi> cap. <hi>40.</hi>
+                  </note>
+               </l>
+               <l>Did firſt Chriſts Goſpel here diſplay,</l>
+               <l>Even whilſt that Emperour did reign,</l>
+               <l>By whom our Saviour Chriſt was ſlain. <note n="(a)" place="margin">Gildas Lib. de victoria Aurelii. Ambroſii.</note>
+               </l>
+               <l>Some ſay, that he of <hi>Arimathy</hi> 
+                  <note n="(b)" place="margin">
+                     <hi>Joſeph</hi> who buried Chriſt.</note>
+               </l>
+               <l>In the year of grace ſixty three,</l>
+               <l>From <hi>France</hi> by <hi>Philip</hi> 
+                  <note n="(c)" place="margin">
+                     <hi>Philip</hi> the Apoſtle.</note> was ſent over,</l>
+               <l>To us the faith for to diſcover. <note n="(d)" place="margin">So ſaith <hi>Gildas</hi> alſo.</note>
+               </l>
+               <l>Hereto agreeth a learned man,</l>
+               <l>That ancient Clark <hi>Tertullian,</hi>
+               </l>
+               <l>That by th' Apoſtles, Britany</l>
+               <l>Was turn'd to Chriſtianity. <note n="(e)" place="margin">Tertul. in his book againſt the <hi>Jewes,</hi> amongst other places converted by the Apoſtles, reckoneth divers parts of <hi>France</hi> and <hi>Britain:</hi> So doth <hi>Ori<g ref="char:EOLhyphen"/>gen, Hom. 4.</hi> upon <hi>Ezechiel.</hi>
+                  </note>
+               </l>
+               <pb n="6" facs="tcp:39011:6"/>
+               <l>Pope <hi>Elutherius</hi> long agoe <note n="(f)" place="margin">About the year of Chriſt, <hi>180.</hi>
+                  </note>
+               </l>
+               <l>As his Epiſtle plain did ſhow <note n="(g)" place="margin">This Epiſtle hath been found, out of the ancient Records of the Kings of <hi>England.</hi>
+                  </note>
+               </l>
+               <l>Unto King <hi>Lucius</hi> hither ſent,</l>
+               <l>Ere <hi>Ethelbert</hi> was king of Kent. <note n="(h)" place="margin">Which was about <hi>600.</hi> years after Chriſt.</note>
+               </l>
+               <l>We hold the faith that then was taught,</l>
+               <l>But you the ſame do ſet at naught: <note n="(i)" place="margin">
+                     <hi>Eleutherius</hi> referred King <hi>Lucius</hi> to the Scriptures, clean againſt the <hi>Pa<g ref="char:EOLhyphen"/>piſts</hi> courſe now, and called him Gods Vicar in his kingdom: which title the <hi>Pope</hi> alone doth now challenge.</note>
+               </l>
+               <l>When <hi>Rome</hi> the <hi>Truth</hi> doth once forſake,</l>
+               <l>Then we of <hi>Rome</hi> our leaves muſt take.</l>
+               <l>If that our Church were <hi>Catholick,</hi>
+               </l>
+               <l>To come to Church thou wouldſt not ſtick.</l>
+               <l>If of the word thou knewſt the ſence,</l>
+               <l>Thou ſoon would'ſt leave that fond pretence.</l>
+               <l>Our Church that truth doth firm embrace,</l>
+               <l>Which all thoſe hold in every place,</l>
+               <l>Who leaving mens traditions clean,</l>
+               <l>Upon the Scriptures onely lean. <note n="(k)" place="margin">That is truly <hi>Catholick</hi> which eve<g ref="char:EOLhyphen"/>ry where, alwayes, and by all (<hi>viz.</hi> true Chriſtians) is believed, <hi>Vincen. cont. Haer. c. 3.</hi> Let <hi>Papiſts</hi> prove, that the word <hi>Catholick</hi> being taken in that ſence, ours is not a <hi>Catholick</hi> Church.</note>
+               </l>
+            </div>
+            <div type="Papist_speech">
+               <head>Popiſh Rime.</head>
+               <head>Prophets.</head>
+               <l>SO ſaith the Prophet <hi>Malachy,</hi>
+               </l>
+               <l>There ſhould be offered far and nigh,</l>
+               <l>A clean Oblation or Sacrifice <note n="(l)" place="margin">When you read Altar and Sacrifice, you think ſtreight that makes for Maſs, not knowing, or not ſeeming to know the language of the Scripture.</note>
+               </l>
+               <l>From place where now the Sun doth riſe,</l>
+               <l>To the going down of the ſame:</l>
+               <l>And what is that, I pray thee name?</l>
+               <l>If it be not the holy Maſs,</l>
+               <l>I will be a <hi>Proteſtant</hi> as I was. <note n="(m)" place="margin">If thou hadſt been of us, thou wouldſt have continued with us, <hi>1 John 2.19.</hi>
+                  </note>
+               </l>
+               <l>In the eighteenth Pſalm I found,</l>
+               <l>The whole world ſhould hear their ſound: <note n="(n)" place="margin">Namely, of the Apoſtles, and their Doctrine: prove our Doctrine to diſa<g ref="char:EOLhyphen"/>gree with theirs.</note>
+               </l>
+               <l>And if this mark you do not want,</l>
+               <l>Preſently I will recant.</l>
+            </div>
+            <div type="Protestant_answer">
+               <head>Proteſtants Anſwer.</head>
+               <head>Prophets.</head>
+               <l>THou cit'ſt a text of <hi>Malachy,</hi> 
+                  <note n="(o)" place="margin">
+                     <hi>Mal.</hi> 1.11.</note>
+               </l>
+               <l>Hoping to prove thy Maſs thereby,</l>
+               <l>Alas, the reaſon is but ſmall,</l>
+               <l>And helps that Idol not at all.</l>
+               <pb n="7" facs="tcp:39011:6"/>
+               <l>In it God threatneth the <hi>Jews,</hi>
+                  <note n="†" place="margin">The opening of the place of <hi>Mala<g ref="char:EOLhyphen"/>chy.</hi>
+                  </note>
+               </l>
+               <l>Who their great priviledge did abuſe,</l>
+               <l>And thought the Lord was tied to them,</l>
+               <l>And unto their <hi>Jeruſalem.</hi>
+               </l>
+               <l>The Prophet tells, that God elſewhere</l>
+               <l>Will find out thoſe, which ſhall him fear,</l>
+               <l>And in an order without blame,</l>
+               <l>Shall call upon his holy Name.</l>
+               <l>Speaking to their capacity,</l>
+               <l>The Legal tearms he doth apply: <note n="(p)" place="margin">So <hi>Joel 2.28.</hi> The holy Ghoſt fore<g ref="char:EOLhyphen"/>telling the Spiritual enlightning which the people ſhall have under Christ, doth deliver it under the names of Vi<g ref="char:EOLhyphen"/>ſions and Dreams: which notwith<g ref="char:EOLhyphen"/>ſtanding were not ordinary in the times of the Goſpel.</note>
+               </l>
+               <l>And calls our Goſpel like Service,</l>
+               <l>A pure and ſpotleſs <note n="(q)" place="margin">Pure in Chriſt, being accepted of God through him, <hi>1 Pet. 2.5.</hi>
+                  </note> Sacrifice.</l>
+               <l>What ground is here then for the Maſs?</l>
+               <l>It ſtill remaineth, as it was,</l>
+               <l>A groſs device, defaming Chriſt,</l>
+               <l>Who is our true and onely Prieſt. <note n="(r)" place="margin">See more of this hereafter, in ſpeak<g ref="char:EOLhyphen"/>ing more directly of the Maſs.</note>
+               </l>
+               <l>The ſpeech of <hi>David</hi> of the Skies, <note n="(ſ)" place="margin">
+                     <hi>Pſal. 19.3.</hi> But according to their account, <hi>Pſal. 18.</hi>
+                  </note>
+               </l>
+               <l>Into the Apoſtles, <hi>Paul</hi> applies, <note n="(t)" place="margin">Rom. 10.18.</note>
+               </l>
+               <l>And ſaith, their ſound went far and near,</l>
+               <l>As in the ſtories doth appear.</l>
+               <l>Tell me, I pray, what good to you,</l>
+               <l>This place you have alledg'd can do?</l>
+               <l>It maketh nought for <hi>Popery,</hi>
+               </l>
+               <l>Or for your idle trumpery.</l>
+               <l>Indeed the infamous Fame is ſpread,</l>
+               <l>Of <hi>Antichriſt</hi> your hideous head,</l>
+               <l>And all God's Children him do ſee,</l>
+               <l>The man of ſin <note n="(r)" place="margin">2 Theſ. 2.3.</note> alone to be.</l>
+               <l>Th' <hi>Apoſtles</hi> Faith was far diſperſt,</l>
+               <l>And here in <hi>England</hi> was rehearſt.</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith then our Doctrine is the ſame,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o it belongs part of their fame.</l>
+            </div>
+            <div type="Papist_speech">
+               <head>Popiſh Rime.</head>
+               <head>Continuance.</head>
+               <l>THis is another mark moſt ſure,</l>
+               <l>The Faith of Chriſt muſt ſtill endure, <note n="†" place="margin">Chriſts Faith muſt endure, therefore <hi>Rome</hi> is the true Church. A hot ar<g ref="char:EOLhyphen"/>gument; as though the Chriſtian Faith could endure no where but at <hi>Rome.</hi>
+                  </note>
+               </l>
+               <l>According as our Saviour ſaid,</l>
+               <l>When for Saint <hi>Peter</hi> he had pray'd;</l>
+               <pb n="8" facs="tcp:39011:7"/>
+               <l>
+                  <hi>Simon,</hi> thy faith ſhall never fail,</l>
+               <l>The gates of Hell ſhall not prevail, <note n="†" place="margin">True, the gates of Hell ſhall not pre<g ref="char:EOLhyphen"/>vail againſt the Church of Chriſt: but Chriſt in deſpight of the Devil will have a Church upon earth: what makes this for <hi>Rome?</hi>
+                  </note>
+               </l>
+               <l>The holy Ghoſt your comforter,</l>
+               <l>Shall remain with you for ever.</l>
+               <l>And I my ſelf, your ſureſt friend,</l>
+               <l>Will be with you unto the end.</l>
+               <l>Saint <hi>Paul</hi> hath the like ſpeech,</l>
+               <l>There ſhall be alwayes men to preach:</l>
+               <l>Apoſtles <note n="(p)" place="margin">Some ſay they are Apoſtles, and are not, <hi>Rev. 2.2.</hi>
+                  </note> Doctors, and the like,</l>
+               <l>In the Church Catholick:</l>
+               <l>If this be not the Church of <hi>Rome</hi> 
+                  <note n="(q)" place="margin">Becauſe you ſay it, we are bound to believe it.</note>
+               </l>
+               <l>Then will I be converted ſoon.</l>
+            </div>
+            <div type="Protestant_answer">
+               <head>Proteſtants Anſwer.</head>
+               <head>Continuance.</head>
+               <l>YOu ſay, Chriſts faith muſt ſtill endure,</l>
+               <l>I yield that nothing is more ſure:</l>
+               <l>And alwayes God a Church will have,</l>
+               <l>Though thereat Satan rage and rave, <note n="(ſ)" place="margin">
+                     <hi>Mat. 16.18.</hi> And that is the ut<g ref="char:EOLhyphen"/>termoſt which can be collected out of that place.</note>
+               </l>
+               <l>It glads my heart, that Chriſt hath praid;</l>
+               <l>Thereby I know my Faith is ſtaid: <note n="(t)" place="margin">
+                     <hi>Luke 22.32.</hi> Chriſts prayer there belongs to all believers as well as to Saint <hi>Peter,</hi> John 17.20.</note>
+               </l>
+               <l>The comfort of Gods holy Sp'rit,</l>
+               <l>Is each good Chriſtians ſole delight.</l>
+               <l>This proves, there ſtill a Church ſhall be,</l>
+               <l>And herein thou and I agree:</l>
+               <l>To prove the Church tied to one Sea,</l>
+               <l>Requireth yet a better Plea.</l>
+               <l>The Faith of Chriſt may ſtill abide,</l>
+               <l>Though <hi>Rome</hi> ſhould into <hi>Tibur</hi> ſlide:</l>
+               <l>Gods Spirit is free, and is not bound <note n="(u)" place="margin">John 3.8.</note>
+               </l>
+               <l>Within the liſts of <hi>Romiſh</hi> ground.</l>
+               <l>When thou canſt prove by holy writ,</l>
+               <l>Chriſts Faith to <hi>Rome</hi> by charter knit,</l>
+               <l>Then ſhall thy tale ſome credit find,</l>
+               <l>Where now it turneth all to wind.</l>
+               <l>But yet continuance is a Note</l>
+               <l>Of Gods true Church: and <hi>Paul</hi> hath wro<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>
+                  <note place="margin">Epheſ. 4.11, <hi>&amp;c.</hi>
+                  </note>That there ſhould ſtill ſome teachers be:</l>
+               <l>In ſome we this fulfilled ſee.</l>
+               <pb n="9" facs="tcp:39011:7"/>
+               <l>I ſay, continuance is no ſign,</l>
+               <l>To prove a Church to be divine;</l>
+               <l>We may not think each Doctrine ſure,</l>
+               <l>Which doth for many years endure. <note n="(x)" place="margin">It is true, that the truth ſhall con<g ref="char:EOLhyphen"/>tinue; but yet it holds not backward, that whatſoever continueth is Truth. The Devil is a lyar from the beginning</note>
+               </l>
+               <l>Muſt not the tares be let to grow,</l>
+               <l>Till it be time the corn to mow? <note n="(y)" place="margin">Mat. 13.10.</note>
+               </l>
+               <l>And Antichriſt ſhall long time ſtay,</l>
+               <l>Even till the very Judgment day. <note n="(z)" place="margin">2 Theſ. 2.8.</note>
+               </l>
+               <l>The <hi>Arrian</hi> hereſie years did ſtand,</l>
+               <l>Two hundred more than one thouſand: <note n="(a)" place="margin">Yea, and it was ſo generally recei<g ref="char:EOLhyphen"/>ved, that it was ſaid, the whole world was become an <hi>Arrian. Hierom. dia<g ref="char:EOLhyphen"/>log. contra Luciferianos.</hi>
+                  </note>
+               </l>
+               <l>And ſo ſince <hi>Mahomet</hi> firſt was ſeen,</l>
+               <l>A thouſand years have numbred been.</l>
+               <l>
+                  <hi>Romes</hi> name endures, but <hi>Rome</hi> is chang'd,</l>
+               <l>And hath from Chriſt it ſelf eſtrang'd:</l>
+               <l>Quit thou <hi>Rome</hi> from Apoſtacy,</l>
+               <l>Or name not Perpetuity.</l>
+               <l>
+                  <hi>Pauls</hi> words do prove, <note n="(b)" place="margin">Epheſ. 4.11, <hi>&amp;c.</hi>
+                  </note> that certainly</l>
+               <l>The Church ſhall have a Miniſtry:</l>
+               <l>And that there ſhall be ſome to feed</l>
+               <l>The Flock of Chriſt at ev'ry need:</l>
+               <l>But that theſe Paſtors here or there,</l>
+               <l>Shall alwayes fit in beauty clear,</l>
+               <l>This fond conceit, not one more word,</l>
+               <l>The holy Scripture doth afford.</l>
+               <l>Indeed in Rome there divers be,</l>
+               <l>That bear the name of <hi>Prelacie:</hi>
+               </l>
+               <l>Better we <hi>Pilates</hi> may them call,</l>
+               <l>Seeking the Churches Funeral.</l>
+               <l>You call your <hi>Pope</hi> a Shepheard great;</l>
+               <l>But where is his Spiritual meat?</l>
+               <l>I do not hear that he doth preach:</l>
+               <l>That would his greatneſs much impeach.</l>
+               <l>Such are his carnal <hi>Cardinals,</hi>
+               </l>
+               <l>Or rather bloody <hi>Canibals.</hi> 
+                  <note n="(c)" place="margin">The People that live upon mans fleſh.</note>
+               </l>
+               <l>They eat the fat, and skin the Flock,</l>
+               <l>And live upon the Churches ſtock.</l>
+               <l>An idle ſign, a Shepheards Crook</l>
+               <l>In hand they bear <note n="(d)" place="margin">The Paſtoral ſtaff, made in faſhion of a Shepheards crook.</note> but cannot brook</l>
+               <l>To preach the Word (a Paſtors grace)</l>
+               <l>That duty fits not their high place.</l>
+               <pb n="10" facs="tcp:39011:8"/>
+               <l>The key of knowledge they withdraw, <note n="(e)" place="margin">Luke 11.52.</note>
+               </l>
+               <l>And from Gods people ſteal <note n="(f)" place="margin">Jerem. 23.30.</note> Gods Law,</l>
+               <l>And mens devices <note n="(g)" place="margin">They teach Traditions to be equally reverenced as the Scriptures, Conc. Trid. ſeſ. <hi>4.</hi> dec. and <hi>Lidanus</hi> calleth them the foundation of Faith, Panopl. <hi>lib. 5. cap. 2.</hi>
+                  </note> on them thruſt,</l>
+               <l>Making them unto fancies truſt.</l>
+               <l>Theſe are <hi>Romes</hi> Paſtors: woful ſheep,</l>
+               <l>Which left are to the Wolves to keep.</l>
+               <l>Thou Shepheard great and Biſhop chief, <note n="(h)" place="margin">1 Pet. 2.25. &amp; 4.5.</note>
+               </l>
+               <l>Come quickly <note n="(i)" place="margin">Rev. 22.20.</note> quell this <hi>Romiſh</hi> thief.</l>
+            </div>
+            <div type="Papist_speech">
+               <head>Papiſts Rime.</head>
+               <head>Viſible.</head>
+               <l>ANother mark there is moſt clear,</l>
+               <l>The Church of God muſt ſtil appear,</l>
+               <l>As a City on a hill, <note n="(k)" place="margin">Some wreſt the Scriptures to their own deſtruction, <hi>2 Pet. 3.16.</hi> Take heed.</note>
+               </l>
+               <l>Seen and continue ſtill,</l>
+               <l>As a light on a Candleſtick,</l>
+               <l>So is the Church <hi>Catholick:</hi>
+               </l>
+               <l>Our Saviour ſaith, if one offend,</l>
+               <l>And will not be rul'd by his friend,</l>
+               <l>Tell all the Church without delay: <note n="(l)" place="margin">Would you have us go to <hi>Rome</hi> with every complaint? It ſeemeth ſo; for you tie the Church to that Sea.</note>
+               </l>
+               <l>And if he will not then obey,</l>
+               <l>Do thou eſteem ſuch a man,</l>
+               <l>An <hi>Heathen</hi> or a <hi>Publican.</hi>
+               </l>
+               <l>Is not that the Church, wherein we ſee</l>
+               <l>Two hundred Biſhops thirty three,</l>
+               <l>To have ſucceeded each other,</l>
+               <l>Since the time of Saint <hi>Peter.</hi> 
+                  <note n="(m)" place="margin">You muſt firſt prove that Saint <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> was Biſhop of <hi>Rome.</hi>
+                  </note>
+               </l>
+               <l>Shew me this mark in you, <note n="(n)" place="margin">Thou thy ſelf ſayſt, there have been ſucceſſively <hi>63.</hi> Biſhops in <hi>England</hi> ſince <hi>Peter:</hi> then either ours is the true Church, or elſe ſucceſſion of Biſhops is no ſure mark.</note>
+               </l>
+               <l>And I will ſay your faith is true:</l>
+               <l>If this be not in the faith of <hi>Rome,</hi>
+               </l>
+               <l>Then will I be converted ſoon.</l>
+            </div>
+            <div type="Protestant_answer">
+               <head>Proteſtants Anſwer.</head>
+               <head>Viſible.</head>
+               <l>THou tell'ſt a tale incredible,</l>
+               <l>How that God's Church is viſible:</l>
+               <l>And by the Biſhops Catalogue,</l>
+               <l>Wouldſt prove the <hi>Romiſh</hi> Synagogue.</l>
+               <pb n="11" facs="tcp:39011:8"/>
+               <l>The errors here together lapt,</l>
+               <l>By which the ſimple are entrapt,</l>
+               <l>All which your feigned <hi>Church</hi> doth hold,</l>
+               <l>I mean in order to unfold.</l>
+               <l>The <hi>Catholick Church</hi> defin'd aright,</l>
+               <l>Cannot be ſubject to our ſight:</l>
+               <l>It is th' Elected company, <note n="(o)" place="margin">1 Pet. 2.9.</note>
+               </l>
+               <l>And <hi>Chriſt</hi> his choſen Family. <note n="(p)" place="margin">Epheſ. 3.15.</note>
+               </l>
+               <l>Of this, one part in Heaven lives, <note n="(q)" place="margin">Called the Church Triumphant.</note>
+               </l>
+               <l>The other here with Satan ſtrives, <note n="(r)" place="margin">Tearmed the Church Militant.</note>
+               </l>
+               <l>The part above (you'l not deny)</l>
+               <l>With mortal eyes none can deſcry.</l>
+               <l>The ſame is true of that below,</l>
+               <l>It is unſeen by us alſo:</l>
+               <l>How with mine eyes I might diſcern.</l>
+               <l>And ſee th Elect fain would I learn.</l>
+               <l>Upon their perſons we may look,</l>
+               <l>Whoſe names are written in Gods Book: <note n="(ſ)" place="margin">The Book of Life, <hi>Phil. 4.3.</hi>
+                  </note>
+               </l>
+               <l>But as for their Spiritual being,</l>
+               <l>It is a thing doth paſs our ſeeing.</l>
+               <l>Parts of <hi>Chriſts Church,</hi> you Papiſts make</l>
+               <l>Even thoſe whom God will quite forſake: <note n="(p)" place="margin">So doth <hi>Bellarmine,</hi> lib. <hi>3.</hi> de Ec<g ref="char:EOLhyphen"/>cleſ. cap. <hi>7.</hi> and the <hi>Rhemiſts</hi> in their Annotations upon <hi>John 15.1.</hi>
+                  </note>
+               </l>
+               <l>Which if the matter be well ſcand,</l>
+               <l>Cannot with any Scripture ſtand.</l>
+               <l>Of the true <hi>Church Chriſt</hi> is the head, <note n="(q)" place="margin">Epheſ. 1.22.</note>
+               </l>
+               <l>In him can be no member dead: <note n="(r)" place="margin">They are called living ſtones, <hi>1 Pet. 2.3.</hi>
+                  </note>
+               </l>
+               <l>His <hi>Church</hi> a Garden, <note n="(ſ)" place="margin">Cant. 4.12.</note> cloſed well,</l>
+               <l>In which no Reprobates can dwell, <note n="(t)" place="margin">So <hi>Auguſt.</hi> applieth the place. Con<g ref="char:EOLhyphen"/>tra Creſ. Gram. <hi>lib. 2. cap. 26.</hi> and <hi>Gregory</hi> the great, who was a Biſhop of <hi>Rome,</hi> in his Commentary upon that place. <hi>Charitatis vallo circumquaque munitur, ne intra numerum electo<g ref="char:EOLhyphen"/>rum reprobus aliquis ingreciatur.</hi>
+                  </note>
+               </l>
+               <l>So that, if fitly we will ſpeak,</l>
+               <l>The ground you lay is very weak:</l>
+               <l>In calling it a mark moſt clear,</l>
+               <l>That Gods true <hi>Church</hi> muſt ſtill appear.</l>
+               <l>Of <hi>Churches</hi> nam'd in ſeveral,</l>
+               <l>In <hi>Cities,</hi> or elſe National,</l>
+               <l>We yeeld ſometime they may be ſeen,</l>
+               <l>Though ſometime they are darkned clean.</l>
+               <l>Sometime the Moon with chearful light,</l>
+               <l>Shines in the height of Heaven bright: <note n="(u)" place="margin">Aug. <hi>uſeth that ſimilitude. Epiſt.</hi> 48 <hi>and Epiſt.</hi> 80. <hi>and</hi> Ambroſe <hi>Hex.</hi> 4. <hi>C.</hi> 8. Eccleſia ſicut luna defectus habet &amp; ortus frequentes.</note>
+               </l>
+               <l>Sometimes with clouds 'tis overſpred,</l>
+               <l>And in the Wane clean vaniſhed.</l>
+               <pb n="12" facs="tcp:39011:9"/>
+               <l>So is the Church in ſafety ſtill,</l>
+               <l>Although not alway viſible:</l>
+               <l>Sometimes it ſits in glory great,</l>
+               <l>Sometime it hath no certain ſeat.</l>
+               <l>The Woman, which to Deſart fled,</l>
+               <l>From Satans rage to hide her head, <note n="*" place="margin">
+                     <hi>Apoc. 12.6.</hi> So much alſo the <hi>Rhe<g ref="char:EOLhyphen"/>miſts</hi> upon that place do acknowledge.</note>
+               </l>
+               <l>By all the learnedſt full conſent,</l>
+               <l>The Church on earth doth repreſent.</l>
+               <l>The famous Church of <hi>Iſrael,</hi>
+               </l>
+               <l>Where God did promiſe ſtill to dwell, <note n="(x)" place="margin">Pſal. 132.14.</note>
+               </l>
+               <l>Was drown'd ſo in Idolatry,</l>
+               <l>And ſuperſtitious ſlavery,</l>
+               <l>That all true worſhip being gone,</l>
+               <l>
+                  <hi>Elias</hi> thought himſelf alone: <note n="(y)" place="margin">1 Kings 19.10.</note>
+               </l>
+               <l>And when Chriſt comes to judge us all,</l>
+               <l>Then faith on earth ſhall be but ſmall. <note n="(z)" place="margin">Luke 18.8.</note>
+               </l>
+               <l>How is the Church a City then, <note n="(a)" place="margin">Mat. 5.14.</note>
+               </l>
+               <l>Rais'd on a mount, and ſeen of men?</l>
+               <l>And how a light ſet up on high,</l>
+               <l>That all that will may it eſpie?</l>
+               <l>How ſhall we to the Church complain, <note n="(b)" place="margin">Mat. 18.17.</note>
+               </l>
+               <l>If of the Church no ſhew remain?</l>
+               <l>This is thy <hi>Popiſh</hi> reaſoning,</l>
+               <l>And Scriptures plain miſconſtruing.</l>
+               <l>
+                  <note place="margin">The true meaning of thoſe places.</note>Chriſt doth th' Apoſtles counſel give,</l>
+               <l>Soundly to preach, and well to live,</l>
+               <l>Becauſe their places were in ſight,</l>
+               <l>And 'twas their Office to give light.</l>
+               <l>They erring many might miſlead,</l>
+               <l>Which in their ſteps might hap to tread:</l>
+               <l>If that their Doctrine were unſound,</l>
+               <l>In falſhood many might be drown'd.</l>
+               <l>It was in vain for them to ween,</l>
+               <l>In doing ill not to be ſeen:</l>
+               <l>You are (ſaith Chriſt) upon a Mount,</l>
+               <l>To be well mark't make full account. <note n="(c)" place="margin">Thus <hi>Chry.</hi> and <hi>Theophilact.</hi> ex<g ref="char:EOLhyphen"/>pounded this place, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>
+               </l>
+               <l>This ſhews wherein our duty ſtands,</l>
+               <l>And what God looks for at our hands,</l>
+               <l>Who call'd are to the Miniſtry,</l>
+               <l>To labour in God's Husbandry. <note n="(d)" place="margin">1 Cor. 3.9.</note>
+               </l>
+               <pb n="13" facs="tcp:39011:9"/>
+               <l>But from hence how may proved be</l>
+               <l>The Churches viſibility?</l>
+               <l>This place affords a ſlender proof,</l>
+               <l>And little for the <hi>Popes</hi> behoof.</l>
+               <l>Yet you perhaps will urge it ſtill,</l>
+               <l>The Paſtors are ſet on a hill,</l>
+               <l>And called Light: even ſo ſay I,</l>
+               <l>But all men can them not deſcry.</l>
+               <l>For thoſe which want ſpiritual eyes, <note n="(e)" place="margin">Epheſ. 1.13.</note>
+               </l>
+               <l>Nor are by ſearching <note n="(f)" place="margin">John 5.39.</note> Scripture-wiſe <note n="(g)" place="margin">Epheſ. 5.15, 17.</note>
+               </l>
+               <l>This mounted City cannot ſee,</l>
+               <l>Nor where theſe lightſome Paſtors be. <note n="(h)" place="margin">This was the Anſwer of <hi>Aug.</hi> to the <hi>Donatiſts.</hi> Tract. <hi>1.</hi> in Epi. Johan.</note>
+               </l>
+               <l>Chriſt bids us we the Church ſhould tell,</l>
+               <l>If things be not reformed well:</l>
+               <l>By Church, he means all ſuch as be</l>
+               <l>Indued with Authority. <note n="(i)" place="margin">
+                     <hi>The ſame which</hi> Paul <hi>calleth</hi> Preſ<g ref="char:EOLhyphen"/>byterian, 1 <hi>Tim.</hi> 4.14. The Elder<g ref="char:EOLhyphen"/>ſhip.</note>
+               </l>
+               <l>Theſe Office-bearers all men ſee,</l>
+               <l>In times of ſetled Sovereignty:</l>
+               <l>Yea, and among themſelves th' are known,<note n="†" place="margin">This anſwer the <hi>Papiſts</hi> cannot miſ<g ref="char:EOLhyphen"/>like: for they make uſe of it for them<g ref="char:EOLhyphen"/>ſelves. <hi>Rhem. in Apoc. 12.6.</hi> The error of this <hi>Popiſh</hi> Argument.</note>
+               </l>
+               <l>When th' outward ſtate is overthrown.</l>
+               <l>When that was ſaid in ſpecial,</l>
+               <l>You turn to Church in general:</l>
+               <l>Thereby you may deceive ſome fools;</l>
+               <l>But ſoon it will be ſeen in Schools.</l>
+               <l>This argument of outward ſtate,</l>
+               <l>Which for a mark you intimate,</l>
+               <l>Againſt that thing doth ſtrongly make,</l>
+               <l>Which you to prove do undertake.</l>
+               <l>
+                  <hi>Romes</hi> ſtate hath ſometimes been obſcur'd,</l>
+               <l>And hath diſgraces foul endur'd:</l>
+               <l>Burnt <note n="(k)" place="margin">
+                     <hi>By the</hi> Goths, 547.</note> ſackt <note n="(l)" place="margin">By <hi>Charles</hi> Duke of <hi>Burbon,</hi> in the dayes of <hi>Pope Clement</hi> the ſeventh, whereupon was made t<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> clauſe in the <hi>Letany, Sancta Maria,</hi> &amp;c. O holy <hi>Mary,</hi> pray for <hi>Pope Clement,</hi> &amp;c.</note> ſome <hi>Popes</hi> impriſoned,<note n="(m)" place="margin">John 14. Boniface 8. <hi>about the year</hi> 1304.</note>
+               </l>
+               <l>Some glad to fly <note n="(n)" place="margin">John 17. <hi>fled to</hi> Hetruria.</note> ſome baniſhed; <note n="(o)" place="margin">
+                     <hi>Vigilius 18.</hi> and <hi>Gregory</hi> the ninth, about the year <hi>1227.</hi>
+                  </note>
+               </l>
+               <l>Where did your glorious Church abide,</l>
+               <l>When <hi>Popes</hi> were glad themſelves to hide?</l>
+               <l>Peace, peace, no more of this for ſhame:</l>
+               <l>
+                  <hi>Rome</hi> ſaith you will her clean defame.</l>
+               <l>
+                  <note n="†" place="margin">Succeſſion.</note> Succeſſion commeth next in place,</l>
+               <l>Whereby thou ſeek'ſt thy Church to grace:</l>
+               <l>Your turn Succeſſion cannot ſerve,</l>
+               <l>If from the Truth Succeſſion ſwerve.</l>
+               <pb n="14" facs="tcp:39011:10"/>
+               <l>The <hi>Jewiſh Church</hi> from <hi>Aaron,</hi>
+               </l>
+               <l>A juſt deſcent might ſtand upon,</l>
+               <l>Even when they crucifi'd our Lord:</l>
+               <l>And hated all that lov'd his Word.</l>
+               <l>If we ſhall ſay, that <hi>Church</hi> was true,</l>
+               <l>Conſiſting of ſo vile a crue,</l>
+               <l>We caſt <hi>Chriſt</hi> and the Apoſtles out,</l>
+               <l>Among the baſe and damned rout.</l>
+               <l>The <hi>Grecian Churches</hi> at this day,</l>
+               <l>For their defence as much can ſay: <note n="(p)" place="margin">At <hi>Conſtantinople</hi> there hath been a perpetual ſucceſſion from Saint <hi>An<g ref="char:EOLhyphen"/>drew. Nicep.</hi> At Alexandria from Saint <hi>Mark.</hi>
+                  </note>
+               </l>
+               <l>Yet you of them do give this doom,</l>
+               <l>That in Gods <hi>Church</hi> they have no room.</l>
+               <l>Yet if Succeſſion were a ſign,</l>
+               <l>Which your grand <hi>Captain Bellarmine</hi>
+               </l>
+               <l>Dares not avouch, <note n="(q)" place="margin">
+                     <hi>Bellarmine</hi> ſaith, it followeth ne<g ref="char:EOLhyphen"/>gatively, that where there is no ſucceſſi<g ref="char:EOLhyphen"/>on, there is no Church: but not affirma<g ref="char:EOLhyphen"/>tively, that where there is ſucceſſion, there is a Church. <hi>Lib. 4. de Eccl. cap. 8.</hi>
+                  </note> I fain would ſee,</l>
+               <l>How <hi>Rome</hi> can prove her pedigree.</l>
+               <l>You call your <hi>Church</hi> Saint <hi>Peters Chair,</hi>
+               </l>
+               <l>As though the <hi>Pope</hi> were <hi>Peters</hi> Heir:</l>
+               <l>But if that ground we once deny,</l>
+               <l>What <hi>Papiſt</hi> can it verifie?</l>
+               <l>You cannot prove by holy Writ,</l>
+               <l>
+                  <hi>Peter</hi> at <hi>Rome</hi> did Biſhop ſit:</l>
+               <l>The onely place which you do name, <note n="(r)" place="margin">
+                     <hi>1 Pet. 4.13.</hi> The <hi>Rhemiſts</hi> ſay, that thereby <hi>Babylon</hi> is meaned <hi>Rome,</hi> and ſo they confeſs <hi>Rome</hi> to be <hi>Babylon.</hi>
+                  </note>
+               </l>
+               <l>Returneth to your greateſt ſhame.</l>
+               <l>The things you fetch from Hiſtorie,</l>
+               <l>Touching this point, do not agree, <note n="(ſ)" place="margin">
+                     <hi>Oroſius</hi> ſaith, <hi>Peter</hi> came to Rome in the beginning of <hi>Claudius</hi> reign; <hi>Hierom</hi> in the 2d. year, others in the 4th. year, other the <hi>13.</hi> year. <hi>Damaſus</hi> ſaith, he came thither in <hi>Neroes</hi> reign; ſo that there is no certainty in that which they make an undoubted princi<g ref="char:EOLhyphen"/>ple.</note>
+               </l>
+               <l>And what our part hath herein ſed,</l>
+               <l>By <hi>Papiſts</hi> ſtands unanſwered.</l>
+               <l>But if he Biſhop were indeed,</l>
+               <l>Tell me who next did him ſucceed:</l>
+               <l>Some <hi>Clement</hi> 
+                  <note n="(t)" place="margin">The <hi>Popes</hi> decrees hold ſo.</note> and ſome, <hi>Linus</hi> hold. <note n="(u)" place="margin">Dorotheus, Euſeb. lib. <hi>3.</hi> cap. <hi>4.</hi>
+                  </note>
+               </l>
+               <l>Thus your ſucceſſion is control'd.</l>
+               <l>Once was a <hi>Pope</hi> ſuppos'd a man, <note n="†" place="margin">John <hi>8.</hi> Platina, The womans name was Gilbertia, a Dutch woman of Bur<g ref="char:EOLhyphen"/>guntium.</note>
+               </l>
+               <l>But prov'd in time a <hi>Curtezan.</hi>
+               </l>
+               <l>Then either your Succeſſion ſhrank,</l>
+               <l>Or you muſt put her in the rank.</l>
+               <l>When <hi>Popes</hi> there were, ſome 2. <note n="(x)" place="margin">Two Popes together, Anno <hi>1083.</hi> Anno <hi>1058.</hi> and <hi>1062.</hi>
+                  </note> or 3. <note n="(y)" place="margin">Bened. <hi>9.</hi> Silveſt. <hi>3.</hi> Greg. <hi>6.</hi> all at one time; and at another time. Ben. <hi>1.</hi> a <hi>Spaniſh</hi> Pope. Greg. <hi>12.</hi> a French Pope, and John <hi>23.</hi> an Italian Pope.</note>
+               </l>
+               <l>Where then might your ſucceſſion be?</l>
+               <l>One Schiſme held almoſt forty year, <note n="(z)" place="margin">39. <hi>years.</hi>
+                  </note>
+               </l>
+               <l>
+                  <hi>Pope</hi> againſt <hi>Pope,</hi> as doth appear. <note n="(a)" place="margin">Let their own Authors ſpeak.</note>
+               </l>
+               <pb n="15" facs="tcp:39011:10"/>
+               <l>One Council <note n="(b)" place="margin">The Council of <hi>Conſtance.</hi>
+                  </note> did theſe <hi>Popes</hi> put down,</l>
+               <l>And to another gave the Crown:</l>
+               <l>When theſe falſe <hi>Popes</hi> the place poſſeſt,</l>
+               <l>I think you'l ſay Succeſſion ceaſt.</l>
+            </div>
+            <div type="Papist_speech">
+               <head>Popiſh Rime.</head>
+               <head>Unity.</head>
+               <l>ANother mark there is truly,</l>
+               <l>The Church muſt have Unity,</l>
+               <l>As our Saviour hath foretold,</l>
+               <l>One Shepheard and one fold:</l>
+               <l>One is my Spouſe, one is my Love,</l>
+               <l>One is my Darling and my Dove.</l>
+               <l>This is his Spouſe, and at ſome time,</l>
+               <l>He doth reſemble it to a Vine:</l>
+               <l>His Father is the Husbandman,</l>
+               <l>A Branch is every Chriſtian.</l>
+               <l>This is his Body Myſtical,</l>
+               <l>The which he doth his Kingdom call:</l>
+               <l>Whereof Saint <hi>Peter</hi> had the Keys, <note n="(c)" place="margin">What became of the Keys, when Pope <hi>Julius</hi> the ſecond threw them in<g ref="char:EOLhyphen"/>to <hi>Tyber?</hi>
+                  </note>
+               </l>
+               <l>And his Succeſſors have alwayes: <note n="(d)" place="margin">As though no body did ſucceed <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> but the Pope, who is rather the ſuc<g ref="char:EOLhyphen"/>ceſſor of <hi>Romulus</hi> then <hi>Peter;</hi> as Pope <hi>Hadrian</hi> the fourth ſaid when he died.</note>
+               </l>
+               <l>And likewiſe Saint <hi>Paul</hi> ſaith,</l>
+               <l>One Baptiſme, and one Faith.</l>
+               <l>And one Lord Jeſu:</l>
+               <l>Have no diſſention among you.</l>
+               <l>If this be not the Church of Rome,</l>
+               <l>Then will I be converted ſoon.</l>
+            </div>
+            <div type="Protestant_answer">
+               <head>Proteſtants Anſwer.</head>
+               <head>Unity.</head>
+               <l>TIs true, Chriſts Church is alwayes one,</l>
+               <l>Ty'd unto him as head alone:</l>
+               <l>The parts thereof do well agree, <note n="(e)" place="margin">Acts 4.23.</note>
+               </l>
+               <l>Like Children of one Family.</l>
+               <l>But yet not every company,</l>
+               <l>Together link't in Unity,</l>
+               <l>Muſt by and by be called good,</l>
+               <l>If truth by them ſhall be withſtood.</l>
+               <pb n="16" facs="tcp:39011:11"/>
+               <l>To make a Calf they all agree'd, <note n="(d)" place="margin">Exod. 32.1,</note>
+               </l>
+               <l>All cry'd, <hi>Let Chriſt be Crucifi'd:</hi> 
+                  <note n="(e)" place="margin">Mat. 27.22.</note>
+               </l>
+               <l>
+                  <hi>Great is Diana,</hi> with a ſhout,</l>
+               <l>At once the people all cry'd out. <note n="(f)" place="margin">Acts 19.34.</note>
+               </l>
+               <l>
+                  <hi>John</hi> ſaid, they ſhould yeeld to the Beaſt,</l>
+               <l>Even from the greateſt to the leaſt. <note n="(g)" place="margin">Apoc. 13.16.</note>
+               </l>
+               <l>As Chriſt his City is but one,</l>
+               <l>So is the Devils <hi>Babylon,</hi> 
+                  <note n="(h)" place="margin">Ut eſt Dei una Eccleſia, ſic eſt Diaboli una <hi>Babylon.</hi> Aug. de Civit. Dei.</note>
+               </l>
+               <l>The beſt ſometimes do diſagree, <note n="(i)" place="margin">Peter <hi>and</hi> Paul, <hi>Gal.</hi> 2.11. Paul <hi>and</hi> Barnabas, <hi>Acts</hi> 15.39. Chryſoſt. Theophilact, <hi>and</hi> Epipha<g ref="char:EOLhyphen"/>nius, Auguſtine <hi>and</hi> Hierom, Cyril <hi>and</hi> Theodoret.</note>
+               </l>
+               <l>Each man hath his infirmitie:</l>
+               <l>Better the diſcord bringing light,</l>
+               <l>Then is agreement without right. <note n="(k)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Nazienz. Oratione prima de pace.</note>
+               </l>
+               <l>Yet by this mark, if <hi>Rome</hi> be try'd,</l>
+               <l>It will fall hard upon your ſide:</l>
+               <l>Your joynt-conſent, we cannot find,</l>
+               <l>Nor that you all are of one mind.</l>
+               <l>If we ſhall credit Hiſtory,</l>
+               <l>You cannot brag of Unity:</l>
+               <l>Where twenty ſeveral Schiſms have been<note n="(l)" place="margin">Genebrardus in Chro.</note>
+               </l>
+               <l>What harmony may there be ſeen?</l>
+               <l>The laws which one determineth,</l>
+               <l>The <hi>Pope</hi> that follows cancelleth: <note n="(m)" place="margin">
+                     <hi>Stephen</hi> 6. abrogated all his pre<g ref="char:EOLhyphen"/>deceſsors decrees. <hi>Formoſius</hi> took up his body, cut two fingers of his right hand off, and buried him again.</note>
+               </l>
+               <l>Yet things by him aboliſhed,</l>
+               <l>By next <hi>Popes</hi> are eſtabliſhed. <note n="(n)" place="margin">The following Popes, <hi>Theodor.</hi> 2. <hi>Romanus, John 10.</hi> confirmed all <hi>For<g ref="char:EOLhyphen"/>moſus</hi> his Acts.</note>
+               </l>
+               <l>And yet another <note n="(o)" place="margin">After all, Pope <hi>Sergius</hi> diſanulled their Acts, took up <hi>Formoſius</hi> his body, and caſt it into <hi>Tyber,</hi> Ex Polychron.</note> comes behind,</l>
+               <l>Who with the former fault doth find,</l>
+               <l>And all which they did quite diſplace,</l>
+               <l>Reduceth to the former grace.</l>
+               <l>Thus one ſage Council doth decree,</l>
+               <l>Another ſaith it may not be: <note n="(p)" place="margin">The firſt <hi>Nicene</hi> Council allowed Prieſts mar<g ref="char:EOLhyphen"/>riage, and the Communion in both kinds. The Councils of <hi>Conſtance</hi> and <hi>Baſil,</hi> forbad the Laity the uſe of the Cup. The Council of <hi>Trent</hi> forbiddeth both the Cup to the Laity, and marriage to the Clergy. The third Council of <hi>Cartharge</hi> pronounced him ac<g ref="char:EOLhyphen"/>curſed; and called him the fore-runner of Antichriſt, whoſoever ſhould rearm himſelf Univerſal Biſhop: but now the Council of <hi>Trent</hi> curſeth him who ſhall deny the Pope of <hi>Rome</hi> to be the head Biſhop of the world. The general Council of <hi>Conſtantinople</hi> over<g ref="char:EOLhyphen"/>threw Images: The ſecond <hi>Nicene</hi> Council decreed them to be worſhiped. Again, the Council of <hi>Frankfort,</hi> under <hi>Charles</hi> the Great, determineth it to be Idolatry, and accurſ<g ref="char:EOLhyphen"/>eth the <hi>Nicene</hi> Council. Many the like differences might be alledged.</note>
+               </l>
+               <pb n="17" facs="tcp:39011:11"/>
+               <l>That which one Sect <note n="(q)" place="margin">In Anno 1476. there was a great con<g ref="char:EOLhyphen"/>troverſie betwixt the Franciſcanes and Dominicanes, touching the conception of the Virgin Mary, whether ſhe were con<g ref="char:EOLhyphen"/>ceived in ſin or not; the Dominicanes held ſhe was, the Franciſcanes the contrary: but Pope <hi>Xyſtus</hi> the 4. joyning with the Franciſcanes, four of the other were con<g ref="char:EOLhyphen"/>demned and burned at <hi>Rome.</hi>
+                  </note> or Author likes,<note n="(r)" place="margin">Alph. de Caſtro. <hi>lib.</hi> 1. <hi>cap.</hi> 6. holds the Pope inferior to the Council. The opini<g ref="char:EOLhyphen"/>on of all the <hi>Jeſuites</hi> at this day is, that he is above the Council. About the Eucha<g ref="char:EOLhyphen"/>riſt, they have a world of differences a<g ref="char:EOLhyphen"/>mongſt themſelves; as whether Chriſt did conſecrate when he bleſſed the bread and wine: or when he ſaid, <hi>This is my Body,</hi> whether ſo much bread as is taken onely be conſecrated: whether the ſubſtance of the bread be turned to nothing, or chang<g ref="char:EOLhyphen"/>ed into the ſubſtance of Chriſt: whether there be a bodily motion in the Sacra<g ref="char:EOLhyphen"/>ment: whether the body of Chriſt in the Sacrament can be touched: how the acci<g ref="char:EOLhyphen"/>dents in the Sacraments are without a ſubject: whether the accidents can be bro<g ref="char:EOLhyphen"/>ken: whether they can nouriſh: whether the water mingled with the wine, be turned into Chriſts blood: Whence come worms in the Hoſt?</note>
+               </l>
+               <l>The ſame another clean out-ſtrikes.</l>
+               <l>I know you Papiſts do agree</l>
+               <l>To work the Churches miſery:</l>
+               <l>So <hi>Herod</hi> was made <note n="(ſ)" place="margin">He that would know the differences betwixt the <hi>Thomiſts, Scotiſts,</hi> and <hi>Occa<g ref="char:EOLhyphen"/>miſts,</hi> let him read <hi>Eraſ. L contra Latomum,</hi> Luke 23.12.</note> 
+                  <hi>Pilates</hi> friend,</l>
+               <l>To bring our Saviour to his end.</l>
+               <l>Some yeild, as fearing to reſiſt,</l>
+               <l>(Such is the power of Antichriſt)</l>
+               <l>You may not call this Unity,</l>
+               <l>But rather publick Tyranny.</l>
+               <l>Some joyn, becauſe they do not ſee</l>
+               <l>The very depth of Popery:</l>
+               <l>To build upon the Church Belief,</l>
+               <l>Of Lay Religion is the brief.</l>
+               <l>Some for their eaſe and Bellies ſake,</l>
+               <l>Do to your Church themſelves betake:</l>
+               <l>As Monks, and ſuch as loytring love,</l>
+               <l>Whom none but <hi>Romiſts</hi> can approve.</l>
+               <l>This is your Romiſh Concordance,</l>
+               <l>Among your ſelves at variance:</l>
+               <l>Though all for ſome reſpects are led,</l>
+               <l>To meet together in one <hi>Head.</hi>
+               </l>
+               <l>In one point more, I needs muſt ſtay,</l>
+               <l>Though nam'd of you but by the way;</l>
+               <l>Leſt with a phraſe of <hi>Peter</hi>'s Keyes,</l>
+               <l>You dazle ſhould the Peoples eyes.</l>
+               <l>By Keys, is meant the power to preach,</l>
+               <l>And in Gods truth the Church to teach: <note n="(t)" place="margin">Luke 11.52.</note>
+               </l>
+               <l>By it <note n="(u)" place="margin">
+                     <hi>Viz.</hi> Preaching.</note> Heaven's open'd to receive</l>
+               <l>All thoſe which truly do believe.</l>
+               <l>It is the power to looſe and tye,</l>
+               <l>Which Chriſt gave to the Miniſtry; <note n="(w)" place="margin">Therefore Miniſters are ſaid both to have the Miniſtry of Reconciliation, 2 Cor. 5.8. and the Miniſtry of Vengeance againſt diſobedience, 2 Cor. 10.6.</note>
+               </l>
+               <l>It was intended unto all, <note n="(x)" place="margin">Our Lord, in the perſon of one, gave the Keys to all, to ſhew the unity of all, <hi>Cyp. de ſimp. Prelatorum:</hi> and Leo a Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Rome,</hi> is of the ſame judgement, <hi>In Sermone de Nativitate.</hi>
+                  </note>
+               </l>
+               <l>Though ſpoke to one in ſeveral.</l>
+               <l>When to Believers we give Hope,</l>
+               <l>Then is the Gate of Heaven ſet ope:</l>
+               <l>When Mercies Promiſe is repeal'd,</l>
+               <l>Then by the Keys that Gate is ſeal'd. <note n="(y)" place="margin">To bind and looſe, is no other thing, but to declare Gods ſentence, <hi>Hieror. in Mat.</hi> 16.</note>
+               </l>
+               <l>When <hi>Peter</hi> did his Faith confeſs,</l>
+               <l>Th' Apoſtles (by) did mean no leſs:</l>
+               <pb n="18" facs="tcp:39011:12"/>
+               <l>And that which Chriſt to <hi>Peter</hi> ſpake, <note n="(z)" place="margin">Auſtin <hi>ſaith, he anſwered for all,</hi> Hom. <hi>in</hi> Joh. 66.9. <hi>&amp; elſewhere often:</hi> unus pro multis reſpondit, <hi>one made anſwer for all: and</hi> Lyranus, Confeſ<g ref="char:EOLhyphen"/>ſio <hi>Petri,</hi> erat confeſſio aliorum.</note>
+               </l>
+               <l>We may not from the other take. <note n="†" place="margin">Cuncti claves Regni, &amp;c. <hi>All re<g ref="char:EOLhyphen"/>ceive the Keys of Heaven.</hi> Hier. lib. 1. adverſus Jovi.</note>
+               </l>
+               <l>Each true and faithful Miniſter,</l>
+               <l>Is <hi>Peter</hi>'s rightful Succeſſor:</l>
+               <l>Then ſpeak no more of <hi>Peter</hi>'s Keys,</l>
+               <l>Except th' art ſworn the Pope to pleaſe.</l>
+            </div>
+            <div type="Papist_speech">
+               <head>Popiſh Rime.</head>
+               <head>Holy.</head>
+               <l>THis you ſay in very deed,</l>
+               <l>When you rehearſe the Holy Creed,<note n="*" place="margin">So you ſay in the Creed, that Chriſt ſitteth at the right hand of God: and yet you ſay alſo, he is in body preſent at the Maſs.</note>
+               </l>
+               <l>One Church Catholick,</l>
+               <l>Holy and Apoſtolick.</l>
+               <l>This is another mark truly,</l>
+               <l>The Church of God muſt be holy:</l>
+               <l>Holy Men, Holy Service,</l>
+               <l>Ceremonies, Sacrifice:</l>
+               <l>Sacraments and holy Days,</l>
+               <l>Are obſerv'd in her always:</l>
+               <l>As for the Saints and Martyrs all,</l>
+               <l>And Virgins, which you Saints do call,</l>
+               <l>I ask you when they liv'd, and where,</l>
+               <l>Whoſe names are in your Calendar?</l>
+               <l>In what Religion they died,</l>
+               <l>By whom they were Canonized? <note n="†" place="margin">Who made the Pope a Saint-maker?</note>
+               </l>
+               <l>Prove that theſe agree with you;</l>
+               <l>And I will ſay your Faith is true:</l>
+               <l>If they were not your Company, <note n="(a)" place="margin">You ſtand ſo much upon company, that you will rather go to the Devil, then want company.</note>
+               </l>
+               <l>Then is your Faith an Hereſie.</l>
+            </div>
+            <div type="Protestant_answer">
+               <head>Proteſtants Anſwer.</head>
+               <head>Holy.</head>
+               <l>THou ſayſt the Church we Holy call,</l>
+               <l>And ſo we do acknowledge all:</l>
+               <l>What in the Creed our Mouths confeſs,</l>
+               <l>Our Hearts within believe no leſs.</l>
+               <l>The Purity, decay'd before, <note n="(b)" place="margin">By <hi>Adams</hi> fall.</note>
+               </l>
+               <l>Unto his Church Chriſt doth reſtore.</l>
+               <pb n="19" facs="tcp:39011:12"/>
+               <l>That which is here in leſs degree,</l>
+               <l>The ſame in Heaven ſhall perfect be.</l>
+               <l>If thou knew'ſt <hi>Romes</hi> Impurity,</l>
+               <l>Thou would'ſt nor brag of Sanctity:</l>
+               <l>A ſink of Sin, a Sea of Evil,</l>
+               <l>A place poſſeſſed of the Devil. <note n="(c)" place="margin">
+                     <hi>Gallus Senonenſis,</hi> wrote above 400. years agoe, that Satan was let looſe at Rome to deſtroy the Church. <hi>Tho. Becket</hi> a Romiſh Saint, acknowledged the com<g ref="char:EOLhyphen"/>mon proverb to be true, That there is no right at Rome. The Biſhop of Worſter, a Papiſt, told <hi>Philpot,</hi> That he thought, the wickedneſs he ſaw in Rome made him an Heretick.</note>
+               </l>
+               <l>Your Popes bear Names of Holineſs,</l>
+               <l>But none more full of Wickedneſs:</l>
+               <l>Let Stories ſpeak, enquire of them,</l>
+               <l>What Popes have worn the Diadem:</l>
+               <l>Some <hi>Hereticks,</hi> 
+                  <note n="(d)" place="margin">
+                     <hi>Marcellinus,</hi> Pope, ſacrificed to the I<g ref="char:EOLhyphen"/>dols of the <hi>Panims: Platin.</hi> and <hi>Volater. Li<g ref="char:EOLhyphen"/>berius</hi> Pope, an <hi>Arian. Plat.</hi> &amp; <hi>Hiero.</hi> in <hi>Catal. ſcrip. Eccl.</hi> &amp; in <hi>Chro. Anact.</hi> 2. Pope, an <hi>Acatian. Plat. Vigilius</hi> an <hi>Eu<g ref="char:EOLhyphen"/>tychian.</hi> Liber in breviatio: <hi>Honorius,</hi> a <hi>Monothelite,</hi> condemned by the Roman Council under <hi>Adrian</hi> 2.</note> ſome <hi>Murtherers,</hi> 
+                  <note n="(e)" place="margin">Pope <hi>Alexander</hi> 6. poyſoned <hi>Gemes</hi> the Great Turks brother, committed to his cuſtody, Hiero. Maurius, Munſt. <hi>lib.</hi> 4. Coſm. Pope <hi>Hildebrand</hi> hired one to kill the Em<g ref="char:EOLhyphen"/>perour: <hi>Benno Cardinalis.</hi>
+                  </note>
+               </l>
+               <l>
+                  <hi>Inceſtuous</hi> ſome, <note n="(f)" place="margin">
+                     <hi>John</hi> 13. Pope committed inceſt with his two ſiſters: Luithbrand, <hi>lib.</hi> 6 He was wounded in adultery, Platina. Alexander 6. lay with his own daughter. <hi>Vol.</hi>
+                  </note> ſome <hi>Sorcerers:</hi> 
+                  <note n="(g)" place="margin">Hildebrand: ſo ſaith Benno the Card. Pope Silveſter 2. gave himſelf to the De<g ref="char:EOLhyphen"/>vil to be Pope. Pla. Joannes Stella: many others were Magicians, as John 21. Be<g ref="char:EOLhyphen"/>nedict. 9. <hi>&amp;c.</hi>
+                  </note>
+               </l>
+               <l>Some noted for their <hi>cruelty,</hi> 
+                  <note n="(h)" place="margin">Pope Alexander 6. cut off the hands and feet of one Mancinellus, becauſe he wrote againſt his filthineſs: Joh. 13 cut off the hands and noſes of divers Cardinals, Plat.</note>
+               </l>
+               <l>Some for their <hi>monſtrous Blaſphemy.</hi> 
+                  <note n="(i)" place="margin">Pope Hildebrand threw the Sacra<g ref="char:EOLhyphen"/>ment into the fire. Benno. Card. Joh. 22. derided the Goſpel; held the ſouls to be mortal, and was therefore by the Council of Conſtance, 1. 2. ſeſ. 11. called a Devil Incarnate. Leo 10. writing to Cardinal Bembus, calleth the ſtory of Chriſt, a Fable, Joh. 13. called the Devil to help him at Dice, and drank to him, Luithp. <hi>lib</hi> 6.</note>
+               </l>
+               <l>One Pope <note n="(k)" place="margin">Pope Sergius 3.</note> a famous Lemman kept,</l>
+               <l>Whoſe Baſtard to the Popedome crept: <note n="(m)" place="margin">Joh. 11. or as ſome count, Joh. 12. ſee Plat. and Luithprand.</note>
+               </l>
+               <l>Another granted liberty</l>
+               <l>To practiſe beaſtly Sodomy. <note n="(n)" place="margin">Sixtus 4. Granted liberty to the whole family of the Cardinal of St. Lucy in the three hot months, <hi>June, July, Auguſt,</hi> to uſe Sodomit<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y. <hi>Weſellus Groningenſis,</hi> in a Treatiſe, <hi>de Indulg. Papali<g ref="char:EOLhyphen"/>bus,</hi> at the foot of the Licenſe was written, <hi>Fiat ut petitur,</hi> Be it as it is requeſted.</note>
+               </l>
+               <l>Who but the Pope receiveth Rent,</l>
+               <l>Which from the Stews to him is ſent? <note n="(o)" place="margin">Every common Harlor in Rome paid a Fee to Pope <hi>Sixtus</hi> 4. <hi>Agrippa</hi> in his <hi>declam. ad Lovan.</hi>
+                  </note>
+               </l>
+               <l>Let <hi>Rome</hi> and <hi>Venice</hi> make Report,</l>
+               <l>And all that thither do reſort.</l>
+               <l>Who hath in Metre vile expreſt</l>
+               <l>The ſin which Nature doth deteſt?</l>
+               <l>Let <hi>Beneventum</hi> name the man: <note n="(p)" place="margin">The Archbiſhop of <hi>Beneventum, Johannes</hi> a <hi>Caſa,</hi> Dean of the Popes Chamber, uſed Sodo<g ref="char:EOLhyphen"/>my, and commended it in Italian Metre: the book was printed in Venice, by <hi>Trojanus Nau<g ref="char:EOLhyphen"/>us:</hi> ſee the writing of <hi>Paulus Vergerius</hi> againſt this Archbiſhop.</note>
+               </l>
+               <l>Do thou diſprove it, if thou can.</l>
+               <l>If this among your <hi>Heads</hi> be found,</l>
+               <l>How ſhall we think the <hi>Members</hi> ſound?</l>
+               <l>Lord, bleſs us from ſuch holy Popes;</l>
+               <l>And, Lord, make void all Popiſh Hopes.
+<note n="(l)" place="margin">Marozia, Wife to Guido.</note>
+               </l>
+               <pb n="20" facs="tcp:39011:13"/>
+               <l>Like to your Popes your Service is,<note place="margin">Holy Ser<g ref="char:EOLhyphen"/>vice.</note>
+               </l>
+               <l>Wanting no ſtore of blaſphemies:</l>
+               <l>Which, leſt the People ſhould eſpy,</l>
+               <l>You hide in Latine ſecrecy.</l>
+               <l>I need no better Witneſſes</l>
+               <l>Then your allowed Porteſſes,</l>
+               <l>Your Miſſals, and your Letanies,</l>
+               <l>And all your forged Pſalteries.</l>
+               <l>What we to God alone muſt give,</l>
+               <l>That to the Saints you do derive:</l>
+               <l>God will not from his Glory part, <note n="(q)" place="margin">Iſa 48.11.</note>
+               </l>
+               <l>Yet you to Creatures it convert:</l>
+               <l>Unto the Saints you prayers make, <note n="(r)" place="margin">There is neither com<g ref="char:EOLhyphen"/>mandement in the Scripture, that we ſhould pray to Saint, nor promiſe that if we do pray to them we ſhall be heard: upon which 2. every lawful prayer muſt be built.</note>
+               </l>
+               <l>And beg Salvation for their ſake: <note n="(ſ)" place="margin">In their prayers upon the Sts. dayes, ſtill thoſe words come in, that by their merits we may have profit, by their re<g ref="char:EOLhyphen"/>queſts we may be delivered, &amp;c. And Lombard ſaith, the Saints do <hi>juvare nos merito,</hi> lib. 4. diſt. 45. d. 10.</note>
+               </l>
+               <l>You do adore a piece of Bread, <note n="(t)" place="margin">When it is carried in proceſſion: for though it were true, that the bread in the Sacrament is turned into the Body of Chriſt, yet the Sacrament being ended, it muſt needs return to the former nature</note>
+               </l>
+               <l>And make fond <note n="(u)" place="margin">They are fond, becauſe touching the eſtate of the dead, there is no certainty.</note> prayers for the dead.</l>
+               <l>You kneel down to a Croſs of Wood, <note n="†" place="margin">All hail, O Croſs, our onely hope, <hi>&amp;c.</hi> encreaſe righteouſneſs to the godly, and give pardon to the guilty, <hi>In breviario infra,</hi> Heb. 4. <hi>Quad.</hi>
+                  </note>
+               </l>
+               <l>Thinking thereby to purchaſe good:</l>
+               <l>And for ſome things you would have done,</l>
+               <l>You pray the Virgin charge her Son. <note n="(x)" place="margin">
+                     <hi>Roga patrem, jube natum; jure matris impera,</hi> Pray the Fa<g ref="char:EOLhyphen"/>ther, charge thy Son, command by the right of a Mother; <hi>In officio beatae Mariae.</hi>
+                  </note>
+               </l>
+               <l>With Chriſt you do Saint <hi>Francis</hi> joyn, <note n="(y)" place="margin">They ſay, that St. Francis could ſave all that ſhall live after him to the end of the world, through his merits, from ever<g ref="char:EOLhyphen"/>laſting death Floſ. beati Franciſ. Confor<g ref="char:EOLhyphen"/>mit, ſ. Fram Tho. <hi>lib.</hi> 4 <hi>diſt.</hi> 4. <hi>art.</hi> 3.</note>
+               </l>
+               <l>And ſo his Glory do purloyn:</l>
+               <l>One Mediator we do know, <note n="(z)" place="margin">1 <hi>Tim.</hi> 2.5. That place proveth, that there is but one Mediatour, as well as that there is but one God.</note>
+               </l>
+               <l>You have joyn'd with him many mo: <note n="(a)" place="margin">The form of Abſolution to Penitentia<g ref="char:EOLhyphen"/>ries runneth thus: The paſſion of Chriſt, and the merits of the bleſſed Virgin, of Saint <hi>Peter,</hi> and Saint <hi>Paul,</hi> and of other he and ſhe Saints, be unto thee in remiſſi<g ref="char:EOLhyphen"/>on of ſins.</note>
+               </l>
+               <l>We do the Virgin Bleſſed call, <note n="(b)" place="margin">Luke 1.48.</note>
+               </l>
+               <l>And ſay ſhe paſſed Women all:</l>
+               <l>But when you call her <hi>Gate of Grace,</hi> 
+                  <note n="(c)" place="margin">Coeli feneſtra: Regis alti janua, <hi>&amp;c.</hi>
+                  </note>
+               </l>
+               <l>We ſay Chriſts honour you deface.</l>
+               <l>The thing that made her Spirit glad,</l>
+               <l>Was, that ſhe ſuch a Saviour had: <note n="(d)" place="margin">Luke 1.47:</note>
+               </l>
+               <l>Can ſhe on him commandment have,</l>
+               <l>Whoſe help ſhe needed her to ſave?</l>
+               <l>
+                  <note n="*" place="margin">What honour is due to the Saints.</note> This honour to the Saints we give,</l>
+               <l>We crave Gods grace like them to live: <note n="(e)" place="margin">1 Cor. 11.1.</note>
+               </l>
+               <l>We care to keep their memory, <note n="(f)" place="margin">Heb. 13.7.</note>
+               </l>
+               <l>And God in them we glorifie. <note n="(g)" place="margin">Gal. 1.23.</note>
+               </l>
+               <l>
+                  <note n="†" place="margin">Holy Ceremonies. Whoſo readeth the Canon of the Maſs, ſhall there ſee a world of idle and ridiculous ceremonies.</note> Your Ceremonies idle be,</l>
+               <l>And favour moſt of vanity:</l>
+               <l>You ſtand ſo much on outward ſhow,</l>
+               <l>That you the ſubſtance overthrow.</l>
+               <pb n="21" facs="tcp:39011:13"/>
+               <l>With Images and Pictures gay,</l>
+               <l>You ſteal the Peoples hearts away:</l>
+               <l>Well may you pleaſe the outward eye,</l>
+               <l>The ſpirit you do not edifie.</l>
+               <l>A pretty play, to ſee a Prieſt</l>
+               <l>Toſſing his God between his fiſt:</l>
+               <l>Such geſtures, and ſuch apiſh mowes,</l>
+               <l>Such warbling, and ſuch antick ſhowes;</l>
+               <l>Now bends, now ducks, now ſtands upright,</l>
+               <l>Then turns him to the Peoples ſight:</l>
+               <l>Now ſighs, now twenty Croſſes makes,</l>
+               <l>And ore his head the Wafer ſhakes:</l>
+               <l>Then waſheth, then the Chalice licks,</l>
+               <l>And ſhuts his Idol in the Pix:</l>
+               <l>But ſtill the man is much afeard,</l>
+               <l>Leſt ought ſhould hang upon his Beard.</l>
+               <l>Mean while the Vulgar in a maze,</l>
+               <l>Upon the Caky Idol gaze,</l>
+               <l>And knock and kneel, and think them well,</l>
+               <l>That they have heard the ſacring Bell.</l>
+               <l>Tell me, I pray thee, doth God will,</l>
+               <l>With ſuch fond Rites his Church to fill?</l>
+               <l>They never came into his thought; <note n="(i)" place="margin">Jerem. 19.5.</note>
+               </l>
+               <l>Tradition onely hath them brought. <note n="(k)" place="margin">They ſay indeed, that they have the form of the Maſs, by the Tradition of the Apoſtles. <hi>Rhem. 1 Cor. 11.</hi> ſ. <hi>22</hi> but the truth is, that it was now a piece and then a piece, patched up by their own Popes. <hi>Sixtus 2.</hi> brought in the <hi>Sanctus. Innocentius 1.</hi> the <hi>Pax. Leo 1.</hi> ad<g ref="char:EOLhyphen"/>ded this clauſe (A holy Sacrifice and unbloody Hoſt:) <hi>Gelaſius,</hi> the Prefa<g ref="char:EOLhyphen"/>ces, Collects, Gradualls. <hi>Symmachus</hi> the <hi>Gloria in excelſis. Agapetus 1.</hi> Proceſſions. <hi>Pelagius 2.</hi> nine Prefa<g ref="char:EOLhyphen"/>ces before the Canon. <hi>Sergius 1. Ag<g ref="char:EOLhyphen"/>nus Dei:</hi> and <hi>Gregory 1.</hi> confeſſeth, that one <hi>Scolaſticus</hi> made moſt part of the Canon; Holy Maſs or Sacrifice.</note>
+               </l>
+               <l>Your Rites and Maſs do well agree,</l>
+               <l>Both full of groſs Idolatry:</l>
+               <l>Both are unholy and unſound,</l>
+               <l>Both wanting holy Scripture-ground.</l>
+               <l>You ſay that in the Euchariſt,</l>
+               <l>To God is offered by the Prieſt,</l>
+               <l>A Sacrifice in Wine and Bread, <note n="(l)" place="margin">Rhem. Heb. 7. ſect. 8. Concil. Tri<g ref="char:EOLhyphen"/>dent. ſeſ. 22. cap. 1.</note>
+               </l>
+               <l>Both for the living and the dead. <note n="(m)" place="margin">Conc. Trid. ſeſ. 22. cap. 2.</note>
+               </l>
+               <l>Look firſt what Chriſt did inſtitute, <note n="(n)" place="margin">
+                     <hi>Mat.</hi> 26.26. <hi>Mark</hi> 14.22. <hi>Luke</hi> 22.19. 1 <hi>Cor.</hi> 11.24.</note>
+               </l>
+               <l>And that one place ſhall you refute:</l>
+               <l>What he did, we muſt do likewiſe; <note n="(o)" place="margin">
+                     <hi>This do ye,</hi> 1 Cor. 11.25.</note>
+               </l>
+               <l>There's no word of a Sacrifice.</l>
+               <l>
+                  <hi>By this</hi> (ſaid Chriſt) <hi>Remember me:</hi>
+               </l>
+               <l>That ſhews he would not preſent be: <note n="(p)" place="margin">Bodily.</note>
+               </l>
+               <l>We keep ſuch things in memory,</l>
+               <l>Which we behold not really.</l>
+               <pb n="22" facs="tcp:39011:14"/>
+               <l>The Prieſts of old did every day</l>
+               <l>Some Off'ring on the Altar lay. <note n="(q)" place="margin">Heb. 10.11.</note>
+               </l>
+               <l>Chriſts holy Off'ring is but one,</l>
+               <l>Performed by himſelf alone. <note n="(r)" place="margin">Heb. 10.12.</note>
+               </l>
+               <l>If Chriſt ſhall often offred be,</l>
+               <l>We ſhall his ſufferings multiplie:</l>
+               <l>As on the Croſs he died not twice,</l>
+               <l>So there's no ſecond Sacrifice: <note n="(ſ)" place="margin">Heb. 9.25. to 28.</note>
+               </l>
+               <l>There's now no ſacrificing, Prieſt,</l>
+               <l>That Office reſted upon Chriſt: <note n="(t)" place="margin">Heb. 7.23, 24</note>
+               </l>
+               <l>It comes to none ſucceſſively,</l>
+               <l>'Tis his for all Eternity. <note n="(u)" place="margin">The office of a Prieſt, ſo far forth as we underſtand thereby a Sacrificer, whom the Grecians call <hi>Hiereus,</hi> be<g ref="char:EOLhyphen"/>longs onely to Chriſt, and cannot paſs from him to another, neither the name of Prieſt in that ſenſe, but as the name of Prieſt cometh from the Greek word <hi>Presbyteros,</hi> which ſignifieth an Elder, it cannot ſimply bee miſliked.</note>
+               </l>
+               <l>How can a Maſs a pardon bring,</l>
+               <l>Sith 'tis a bloodleſs Offering? <note n="†" place="margin">Heb. 9.22.</note>
+               </l>
+               <l>Chriſt hath procur'd Remiſſion: <note n="(x)" place="margin">Heb. 9.12.</note>
+               </l>
+               <l>What needs a new Oblation? <note n="(y)" place="margin">Heb. 10.18.</note>
+               </l>
+               <l>See then your holy Sacrifice,</l>
+               <l>A thing without all warrantize:</l>
+               <l>Of Scriptures, or of Writers ſage,</l>
+               <l>Which lived in the pureſt Age. <note n="(z)" place="margin">The Maſs, as it is now, was not in uſe in the Church, <hi>1200.</hi> years after Chriſt: It never came to the full per<g ref="char:EOLhyphen"/>fection (though it was in hatching be<g ref="char:EOLhyphen"/>fore) until the Council of <hi>Lateran,</hi> un<g ref="char:EOLhyphen"/>der <hi>Inno. 3.</hi>
+                  </note>
+               </l>
+               <l>The Sacraments <note n="†" place="margin">Holy Sacraments.</note> in number twain,</l>
+               <l>You eek't have with a longer train:</l>
+               <l>The ſeven-headed <hi>Romiſh Beaſt,</hi> 
+                  <note n="(a)" place="margin">Revel. 17.7.</note>
+               </l>
+               <l>The two to ſeven hath encreas'd.</l>
+               <l>Both Baptiſm, <note n="(b)" place="margin">Mat. 28.19.</note> and that holy feaſt, <note n="(c)" place="margin">1 Col. 11.24. <hi>&amp;c.</hi>
+                  </note>
+               </l>
+               <l>Commanded are by Chriſts beheaſt:</l>
+               <l>Shew me but one commandement</l>
+               <l>To prove another Sacrament. <note n="(d)" place="margin">No Father within an <hi>100.</hi> year after Chriſt, acknowledged ſeven Sa<g ref="char:EOLhyphen"/>craments of the New Teſtament: And <hi>Auguſtine</hi> ſaith, The Sacraments are, <hi>Numero pauciſſima,</hi> feweſt in num<g ref="char:EOLhyphen"/>ber, <hi>Ep. 118.</hi> Now, two is the leaſt number.</note>
+               </l>
+               <l>Two in the Old, <note n="(e)" place="margin">Viz. <hi>Ordinary.</hi>
+                  </note> two in the New,</l>
+               <l>So ſhall we have proportion true:</l>
+               <l>Name what in th' ancient <note n="(f)" place="margin">
+                     <hi>Viz.</hi> The form of Gods worſhip under the Law.</note> Liturgy,</l>
+               <l>Your five falſe Symboles do ſupply. <note n="(g)" place="margin">The Sacraments of the New Teſta<g ref="char:EOLhyphen"/>ment. ſucceed the Sacraments of the Old: if then they can name no Sacra<g ref="char:EOLhyphen"/>ments of the Old Teſtament, in the place whereof their five ſuppoſed Sacraments ſhould come, then they cannot juſtifie them to be Sacraments.</note>
+               </l>
+               <l>Thoſe Sacraments which holy be,</l>
+               <l>You ſtain'd have with your Pedlary:</l>
+               <l>In Baptiſm, Oyl, Lights, Spittle, Cream,</l>
+               <l>Your Exorciſm, and conjur'd Stream;</l>
+               <l>Were theſe invented by Gods Spirit?</l>
+               <l>Or found you them in holy Writ?</l>
+               <l>Whence had you all that rituous ſtore</l>
+               <l>Us'd in the Maſs, and nam'd before?</l>
+               <pb n="23" facs="tcp:39011:14"/>
+               <l>You ſpeak next of <note n="†" place="margin">Holy dayes.</note> Feſtivities,</l>
+               <l>And holy-day Solemnities:</l>
+               <l>Thou think'ſt by this, with eaſineſs</l>
+               <l>To prove thy Churches holineſs.</l>
+               <l>Truth is, mens Conſcience you enthral, <note n="(h)" place="margin">
+                     <hi>Bellarmine</hi> ſaith, men are bound in Conſcience to keep the Festivities of the Church, <hi>lib. 3. cap. 10. prop: 3.</hi> and ſo do the <hi>Rhemiſts,</hi> Gal. <hi>4.</hi> ſ. <hi>5.</hi>
+                  </note>
+               </l>
+               <l>To many an idle Feſtival: <note n="(i)" place="margin">very near <hi>200.</hi> if we put theſe toge<g ref="char:EOLhyphen"/>ther which were determined of, <hi>Con<g ref="char:EOLhyphen"/>cil Oxon. ſub. Steph.</hi> and which we read in the marginal Notes upon the <hi>Rhemiſts Teſtament.</hi>
+                  </note>
+               </l>
+               <l>You'll have them be as ſtrictly kept,</l>
+               <l>As Gods own day by his precept.</l>
+               <l>Of feaſts, ſome low, ſome higher be,</l>
+               <l>Some great, ſome leſſer in degree:</l>
+               <l>Some double more, ſome double leſs,</l>
+               <l>A treble fault ſome to tranſgreſs.</l>
+               <l>So with your doubling and redoubling ſtile,</l>
+               <l>The ſimple People you beguile:</l>
+               <l>The Lord is weary of your feaſts, <note n="(k)" place="margin">Iſa. 1.14.</note>
+               </l>
+               <l>And likes not your deviſed reſts:</l>
+               <l>All days are like in holineſs,</l>
+               <l>None holy more, none holy leſs. <note n="(l)" place="margin">The difference betwixt dayes, is in obſervation and uſe, and not in the na<g ref="char:EOLhyphen"/>ture of the day; if one day had been in nature holier then another, the Sabbath might not have been altered.</note>
+               </l>
+               <l>
+                  <hi>Paul</hi> thought his labour was in vain,</l>
+               <l>Where days diſtinctions did remain. <note n="(m)" place="margin">Gal. 4.10, 11.</note>
+               </l>
+               <l>Thou hop'ſt to put us in ſome fear,</l>
+               <l>With ſpeaking of the Kalendar: <note n="(n)" place="margin">Saints Canonized.</note>
+               </l>
+               <l>Thou ask'ſt what Faith all thoſe did hold,</l>
+               <l>Whoſe Names are found therein enroll'd?</l>
+               <l>I tell thee plain, 'tis nought to me</l>
+               <l>What many a one there nam'd, might be:</l>
+               <l>My faith's not ſo ſet on the rack,</l>
+               <l>To ſeek ſtrength from the Almanack.</l>
+               <l>Yet ſure I am, what we profeſs,</l>
+               <l>Some that are there, believ'd no leſs: <note n="(o)" place="margin">As <hi>Peter, Paul, Mary,</hi> &amp;c. and ſome there named which ſuffered per<g ref="char:EOLhyphen"/>ſecution in the ten firſt Perſecutions of the Church.</note>
+               </l>
+               <l>Our Faith and theirs doth well agree,</l>
+               <l>And you with them at variance be.</l>
+               <l>You Churches make, and holy days</l>
+               <l>Unto the Saints and Martyrs praiſe:</l>
+               <l>But us which do believe the ſame,</l>
+               <l>You ſeek to kill, and to defame.</l>
+               <l>Thou ask'ſt who them canonized,</l>
+               <l>Whoſe names are there enregiſtred?</l>
+               <l>You ſay the Pope: I ask again,</l>
+               <l>Wilt thou that ſainting power maintain? <note n="(p)" place="margin">The cuſtom of Canonizing Saints, was not heard of, till one thouſand years after Christ, in the dayes of <hi>Alexan<g ref="char:EOLhyphen"/>der 3.</hi> and <hi>Gregory 7.</hi>
+                  </note>
+               </l>
+               <pb n="24" facs="tcp:39011:15"/>
+               <l>Can any mortal Creature tell,</l>
+               <l>Who goes to Heaven, and who to Hell?</l>
+               <l>All judgement <hi>Paul</hi> bids us forbear,</l>
+               <l>Until the Lord himſelf appear. <note n="(q)" place="margin">1 Cor. 4.5.</note>
+               </l>
+               <l>In Heaven to ſit, or high or low,</l>
+               <l>Is it in mans power to beſtow? <note n="(r)" place="margin">Mat. 20.23.</note>
+               </l>
+               <l>What Biſhops can, or Saints inveſt,</l>
+               <l>Or ſhut men from eternal reſt?</l>
+               <l>Someone Pope doth a Saint enſtall,</l>
+               <l>His grant another doth recall: <note n="(ſ)" place="margin">
+                     <hi>Bonifance 8.</hi> cauſed <hi>Hermanus Ferrarienſ.</hi> who had been Canonized for a Saint <hi>30.</hi> years before, to be ta<g ref="char:EOLhyphen"/>ken out of his Grave and burned, <hi>ann. 1300.</hi>
+                  </note>
+               </l>
+               <l>'Tis but a ſilly dignity,</l>
+               <l>That's ſubject to uncertainty.</l>
+               <l>Among your Saints even thoſe are ſeen,</l>
+               <l>Which to their Prince have Traytors been. <note place="margin">As <hi>Thomas Becket,</hi> and <hi>Eliza<g ref="char:EOLhyphen"/>beth Barton,</hi> called the holy Maid of <hi>Kent,</hi> and others.</note>
+               </l>
+               <l>Though that our Church ſuch Saints deſpiſe,</l>
+               <l>To it, it is no prejudice.</l>
+            </div>
+            <div type="Papist_speech">
+               <head>Popiſh Rime.</head>
+               <head>Hereticks.</head>
+               <l>OUr Saviour warns us to have care,</l>
+               <l>Of falſe Prophets to beware; <note n="(b)" place="margin">That makes us take heed of you.</note>
+               </l>
+               <l>Which in his name ſhall come,</l>
+               <l>Not ſent, yet they ſhall run: <note n="(c)" place="margin">There be many of your Church come amongſt us to work miſchief, before you be ſent for.</note>
+               </l>
+               <l>Thieves; not entring by the Door, <note n="(d)" place="margin">A lively deſcription of the Popes Clergy.</note>
+               </l>
+               <l>That kill and ſteal, and keep a ſtoor;</l>
+               <l>Wolves in Shepheards cloathing,</l>
+               <l>That kill the Soul, and ſteal the Tything.</l>
+               <l>Dogs, Foxes, and Maſters of lies,</l>
+               <l>That new Sects will deviſe;</l>
+               <l>Bringing in diſſention,</l>
+               <l>And heap thouſands to perdition.</l>
+               <l>Where have you been this many a year,</l>
+               <l>That none of you durſt once appear.</l>
+               <l>Ever ſince our Saviours time,</l>
+               <l>To whom did your light ſhine? <note n="(e)" place="margin">To thoſe which had eyes to ſee it.</note>
+               </l>
+               <l>Where did your principal Paſtor ſit? <note n="(f)" place="margin">In Heaven.</note>
+               </l>
+               <l>Who kept your keys? who fed your ſheep? <note n="(g)" place="margin">You have butchered a good ſort of them.</note>
+               </l>
+               <l>Shew ſome Churches you have built:</l>
+               <l>I can ſhew many you have ſpilt.</l>
+               <pb n="25" facs="tcp:39011:15"/>
+               <l>How might a man have found you out,</l>
+               <l>To have trial in a matter of doubt; <note n="(h)" place="margin">You be too proud to learn: it is the firſt leſson you teach your Diſciples, to admit no conference.</note>
+               </l>
+               <l>Where for ſo many a year,</l>
+               <l>No ſuch Company did appear?</l>
+               <l>Until <hi>Luther,</hi> a lying Frier, <note n="(i)" place="margin">If <hi>Luther</hi> had continued a true <hi>Friar,</hi> he had never been good.</note>
+               </l>
+               <l>Upon whom the Devil had deſire,</l>
+               <l>Br<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke his Vow, <note n="(k)" place="margin">
+                     <hi>Herods</hi> vow is better broken then kept.</note> and married a Nun,</l>
+               <l>And there your Sect <note n="(l)" place="margin">Our Sect is the ſame that <hi>Pauls</hi> was, <hi>Acts 28.22.</hi>
+                  </note> firſt begun. <note n="(m)" place="margin">Either thou knoweſt this to be a lie, or thou knowſt nothing.</note>
+               </l>
+               <l>And favoured in <hi>Saxony,</hi>
+               </l>
+               <l>By a Duke that loved liberty:</l>
+               <l>And in King <hi>Edwards</hi> time truly, <note n="(n)" place="margin">There were Engliſh men in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> who bare witneſs to this truth, by ſuffering death for it long afore King <hi>Edwards</hi> time.</note>
+               </l>
+               <l>It firſt infected our Country.</l>
+               <l>For a thouſand years you ſay,</l>
+               <l>That Papiſtry did bear the ſway:</l>
+               <l>And during all that ſpace,</l>
+               <l>No Proteſtant durſt ſhew his face. <note n="(o)" place="margin">The more they lay hid, the greater was your tyranny; yet many then both ſhewed their faces, and loſt their lives.</note>
+               </l>
+               <l>Who kept <note n="(p)" place="margin">Indeed you kep them ſo faſt, that the people could have no comfort by them.</note> the holy Scriptures then</l>
+               <l>From the hands of wicked men?</l>
+               <l>Who had authority to ordain</l>
+               <l>Our Prieſts and Biſhops again?</l>
+               <l>For he that entreth without Order,</l>
+               <l>As a Thief doth kill and murder.</l>
+               <l>And one thing maketh me to muſe,</l>
+               <l>That no Prieſt you do refuſe. <note n="(q)" place="margin">A very tale.</note>
+               </l>
+               <l>Being ordred by the Church of <hi>Rome,</hi>
+               </l>
+               <l>But he was accepted ſoon:</l>
+               <l>If he would ſay the New Service,</l>
+               <l>He ſhould have a Benefice</l>
+               <l>Without any further Order,</l>
+               <l>And accounted for the better. <note n="(r)" place="margin">He that hath once been an eager Papiſt, and is converted truly, is to be the better thought of; becauſe having known the abomination of Popery, he muſt needs deteſt it more.</note>
+               </l>
+               <l>How can ſhe make a lawful Prieſt,</l>
+               <l>If ſhe be not the Church of Chriſt?</l>
+               <l>Anſwer this, O Proteſtant;</l>
+               <l>If thou canſt, I will recant: <note n="(ſ)" place="margin">I believe you will not be ſo good as your word.</note>
+               </l>
+               <l>But while an anſwer you deviſe, <note n="(t)" place="margin">A man need not be long in making you an anſwer.</note>
+               </l>
+               <l>I counſel all men that are wiſe,</l>
+               <l>To hold the faith maintained here</l>
+               <l>The ſpace of a thouſand year,</l>
+               <l>Brought unto us Engliſh men,</l>
+               <l>By our Apoſtle <note n="(u)" place="margin">Who made him an Apoſtle?</note> Saint <hi>Auſten.</hi>
+               </l>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="24" facs="tcp:39011:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="25" facs="tcp:39011:16"/>
+               <pb n="26" facs="tcp:39011:17"/>
+               <l>Who from <hi>Rome</hi> was hither ſent,</l>
+               <l>When <hi>Ethelbert</hi> was King of <hi>Kent,</hi>
+               </l>
+               <l>Who learn'd his Faith of <hi>Gregory:</hi> 
+                  <note n="†" place="margin">This <hi>Gregory</hi> accounteth him the fore-runner of Antichriſt, who ſo ſhould ſeek to be called <g ref="char:V">Ʋ</g>niverſal Biſhop; from this Faith you are gone.</note>
+               </l>
+               <l>His Faith was kept ſucceſſively,</l>
+               <l>By threeſcore Biſhops and three,</l>
+               <l>Since Saint <hi>Peter</hi>'s time truly,</l>
+               <l>Who learn'd his Faith of <hi>Chriſt Jeſu,</hi>
+               </l>
+               <l>Who is the Son of God moſt true.</l>
+            </div>
+            <div type="Protestant_answer">
+               <head>Proteſtants Anſwer.</head>
+               <head>Hereticks.</head>
+               <l>THe Caveat touching Hereticks,</l>
+               <l>Doth make againſt falſe Catholicks:</l>
+               <l>We know full well that Popery</l>
+               <l>Is but a Maſs of Hereſie.</l>
+               <l>Thoſe Errors which of old were hatcht,</l>
+               <l>Your Church together hath them patcht:<note n="(u)" place="margin">It maintaineth free will, and merit of works, with the <hi>Pelagians. Au<g ref="char:EOLhyphen"/>guſtine.</hi> The <hi>Pelagians</hi> held Children to be without ſin. <hi>Aug. contra Jul. lib. 3. cap. 5.</hi> So the Church of <hi>Rome</hi> ſaith, Concupiſcence is no ſin. It holds Imagery with the <hi>Simonians, Baſilidi<g ref="char:EOLhyphen"/>ans,</hi> and <hi>Carpocratians;</hi> and with the two latter they ſecret their Religion, <hi>Iren. lib. 1. cap. 23. Epiph. Haereſ. 24.</hi> It alloweth praying in an unknown tongue with the <hi>Oſteni, Epiph. Hae<g ref="char:EOLhyphen"/>reſ. 19.</hi> It accounteth marriage un<g ref="char:EOLhyphen"/>clean, with <hi>Tatianus, Hae. 46.</hi> and con<g ref="char:EOLhyphen"/>demneth wedlock in their Prieſts, as the <hi>Manichees</hi> did in their choſen ones, <hi>Aug. Ep. 74.</hi> With the ſame Hereticks it uſeth bread onely in the Communion, <hi>Leo Ser. 4. de Quad.</hi> and placeth faſting in the deſtinction of meats, <hi>Aug. de Morib. Eccl. &amp; Ma<g ref="char:EOLhyphen"/>nich. l. 2. cap. 23.</hi> It thinks that all neceſſary doctrine is not contained in the Scripture, with <hi>Montanus, Ep. Haer. 48.</hi> It brageth of inherent righteouſneſs, with the <hi>Cathari, Iſid. Etym. lib. 8. cap. de Haer. Chriſt:</hi> It worſhipeth Angels with the <hi>Angelici, Aug. ad Quodvult. cap. 39.</hi> It denyeth the preaching of the Word to be a note of the Church, with the <hi>Donatiſts, Aug. in variis locis:</hi> and with them tyeth the Church to one ſet place, <hi>Caſſ.</hi> in <hi>Pſal. 60.</hi> It worſhippeth the Croſs with the <hi>Armenians, Euthimius</hi> in <hi>Panoplia.</hi> Thus in many other points it partaketh with the ancient Hereticks.</note>
+               </l>
+               <l>On them ſhe puts a fairer Name,</l>
+               <l>But in effect they are the ſame.</l>
+               <l>You raz'd have the foundation</l>
+               <l>Of all Truth and Religion:</l>
+               <l>You chang'd have the ſincerity</l>
+               <l>Of all the Grounds of Piety. <note n="†" place="margin">As for example, firſt the Article of Juſtification, the efficient cauſe of our Sal<g ref="char:EOLhyphen"/>vation and Righteouſneſs, by the Scripture, is Gods Love and Grace onely, <hi>2 Tim. 1.9. Tit. 2.11. Epheſ. 1.5. John 3.16.</hi> The Papiſts ſay, God is moved by our pre<g ref="char:EOLhyphen"/>paring works. So held <hi>Malvend</hi> in his Diſputation with <hi>Bucer</hi> at <hi>Ratisbone:</hi> ſo <hi>Bonaventure lib. 1. ſen. diſt. 41. Quaeſt. 1.</hi> Touching the matter of our Juſtifi<g ref="char:EOLhyphen"/>cation, the Scripture propoundeth nothing but Chriſts obedience, <hi>Rom. 5.19.</hi> &amp; <hi>10.4.</hi> The Papiſts place our Righteouſneſs before God, in our own works and merits, <hi>Con. Trid. ſ. 6. c. 7.</hi> For the form (as Schollars call it) of Juſtification, it is by the
+<pb n="27" facs="tcp:39011:17"/> Scriptures, the imputation of Chriſts Righteouſneſs, <hi>2 Cor. 5.21.</hi> The Papiſts place it in our merits, <hi>Rhemiſt, 2 Tim. 4. ſ. 4.</hi> Secondly, It is a ground of Chriſtian Re<g ref="char:EOLhyphen"/>ligion, that the Law cannot be fulfilled by us, and that no man is to expect Righteouſneſs or Salvation by it, <hi>Rom. 8.3. Acts 15.10. Gal. 2.15, 16. &amp; 3.10.</hi> The Pa<g ref="char:EOLhyphen"/>piſts maintain, that men may keep the Law, <hi>Con. Trid. ſ. 6. c. 11.</hi> Yea, and that they may perform more then the Law binds unto; whence are ſprung the works of Superero<g ref="char:EOLhyphen"/>gation, and Indulgences, which that Council ſo highly prizeth, <hi>Seſſ. 21. c. 9.</hi> A third ground of Religion overthrown by them, is, that eternal death is due to every ſin. This the Scripture avoucheth, <hi>Rom. 5.12. &amp; 6.23. Ezek. 18.14.</hi> The Papiſts teach, ſome ſins to be in their own nature pardonable, not deſerving death, <hi>Con. Trid. ſeſ. 6. c. 11.</hi> From which opinion aroſe Purgatory. A fourth ground of Religion is, the certainty of Salvation; that Believers may be certain of Salvation, is the Doctrine of the Scripture, <hi>Rom. 8.38. Heb. 11.1. Luke 10.20.</hi> The Papiſts deny and ſay, <hi>We can but have hope onely, Con. Trid. ſ. 6. c. 9.</hi> And yet therein they confound themſelves, for true hope cannot be deceived, <hi>Rom. 5.5.</hi> It is the Anchor of the Soul, <hi>Heb. 6.19.</hi> A fifth ground is, that we cannot ſatisfie God for our leaſt ſins: The Scripture aſcribeth all ſatisfaction to Christ, <hi>Heb. 1.3. 1 Pet. 2.24. Rev. 1.5.</hi> The Papiſts maintain, that we may and muſt ſatisfie, making ſatisfaction a part of Pe<g ref="char:EOLhyphen"/>nance, <hi>Con. Trid. ſ. 14. c. 13.</hi> A ſixth ground is, That the Scripture contains al Doctrine neceſſary for our Salvation; ſo ſaith the Scripture, <hi>2 Tim. 3.16.</hi> &amp; the ancient Church, <hi>Aug. lib. 3. cont. lit. Petil. c. 6.</hi> and others. The Papiſts equal Traditions to the Scripture, <hi>Con. Trid. ſ. 4.</hi> A ſeventh ground is, that the knowledge of the Scrip<g ref="char:EOLhyphen"/>ture is needful to people unto Salvation, and ought to be read of them; thereto accords the holy Text, <hi>John 5.39. <hi>Col.</hi> 3.16.</hi> The Ignorance therein is the cauſe of all error, <hi>Mark 12.24.</hi> The Papiſts forbid the people the uſe of the Scripture, <hi>Rhemiſts</hi> Pre<g ref="char:EOLhyphen"/>face; and do all in the Church Service in an unknown Tongue. Eighthly, the Scrip<g ref="char:EOLhyphen"/>ture teacheth us to worſhip God alone, <hi>Mat. 4.10.</hi> The Papiſts Worſhip Angels and Saints, yea their Images and Reliques: their diſtinction of <hi>Latria,</hi> and <hi>Dulia,</hi> will not ſerve them; for they pray to Creatures, and that is <hi>Latria;</hi> and they acknowledge that which they call <hi>Latria,</hi> to be due to the Croſs, <hi>Tho. p. 3. ſum. Quaeſt. 25. art. 4.</hi> and <hi>Andrad. lib. 9. Orth. expl.</hi> Ninthly, It is the Doctrine of the Scripture, that Christ, <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ding to his humane Nature, is onely in Heaven, <hi>Acts 3.21.</hi> Papiſts ſay, <hi>He is bodily preſent in the Euchariſt, Con. Trid. ſ. 13. c. 6.</hi> Tenthly, Chriſt or<g ref="char:EOLhyphen"/>dained the Communion in both kinds, commanding to do as he did, <hi>1 Cor. 11.24.</hi> Pa<g ref="char:EOLhyphen"/>piſts take the Cup from the Laity, <hi>Con. Trid. ſ. 21. c. 1.</hi> Thus, as in theſe particu<g ref="char:EOLhyphen"/>lars, ſo in many other, it were eaſie to ſhew how the Church of Rome hath overthrown the main points of Holy Droctrine, and have nothing left but the name of the Church, and a title and ſhew of Religion.</note>
+               </l>
+               <pb n="28" facs="tcp:39011:18"/>
+               <l>Thou fall'ſt now to a railing vain,</l>
+               <l>And would'ſt by this thy Pope maintain:</l>
+               <l>Leave idle terms, and ſhew ſome reaſon,</l>
+               <l>Elſe all theſe words come out of ſeaſon.</l>
+               <l>Shew thou what Sects we do deviſe,</l>
+               <l>And wherein we deliver lies;</l>
+               <l>And prove it ſo, that all may ſee,</l>
+               <l>Leſt thou thy ſelf the Lyar be.</l>
+               <l>Foxes, and Dogs, and Wolves thou nam'ſt,</l>
+               <l>And Thieves, wherein thy ſelf thou ſham'ſt:</l>
+               <l>Or prove all this in us is true,</l>
+               <l>Elſe we return it back to you.</l>
+               <l>They call'd Saint <hi>Paul</hi> an Heretick, <note n="(x)" place="margin">Acts 24.14.</note>
+               </l>
+               <l>A Blabler, <note n="(y)" place="margin">Acts 17.18.</note> and a Schiſmatick: <note n="(z)" place="margin">Acts 24.5. <hi>&amp;</hi> 28.22.</note>
+               </l>
+               <l>They ſaid our Saviour was poſſeſt, <note n="(a)" place="margin">John 8.24.</note>
+               </l>
+               <l>And of his preaching made a Jeſt. <note n="(b)" place="margin">Luke 16.14.</note>
+               </l>
+               <l>Yet <hi>Paul</hi> no Hereſie did teach,</l>
+               <l>Nor in the Church made any breach:</l>
+               <l>Nor yet our Saviour had a Devil,</l>
+               <l>He never did or preached evil.</l>
+               <l>Let Scripture try wherein we erre,</l>
+               <l>We crave no other Arbiter:</l>
+               <l>Convict us once by ſuch a Judge,</l>
+               <l>We will not at your railings grudge:</l>
+               <l>Now that thy ſtore is almoſt ſpent,</l>
+               <l>Thou com'ſt t'an old worn Argument:</l>
+               <l>Where was your Church ſome years ago,</l>
+               <l>Before the World did <hi>Luther</hi> know?</l>
+               <l>If briefly now I ſhould deny</l>
+               <l>The Churches Viſibility;</l>
+               <l>It were a word ſufficient</l>
+               <l>To overthrow this prattlement;</l>
+               <l>Yet this I ſay, and will maintain,</l>
+               <l>That even when blindneſs moſt did reign,</l>
+               <l>Our Church a certain being had,</l>
+               <l>Though not with outward Beauty clad:</l>
+               <l>Like to that holy portion, <note n="(c)" place="margin">1 Kings 19.18.</note>
+               </l>
+               <l>In that great ſuperſtition,</l>
+               <l>Which over whelm'd all <hi>Iſrael,</hi>
+               </l>
+               <l>After the Tribes from <hi>David</hi> 
+                  <note n="(d)" place="margin">Davids <hi>Line.</hi>
+                  </note> fell.</l>
+               <pb n="29" facs="tcp:39011:18"/>
+               <l>Or as ſome Ears of purer ſeed,</l>
+               <l>Amidſt a field of noyſome weed;</l>
+               <l>So God had ſome even at that time,</l>
+               <l>When Antichriſt was in his prime.</l>
+               <l>And now and then oat brake the Light,</l>
+               <l>Even in that long and irkſome night:</l>
+               <l>Like as the Sun in lowring days,</l>
+               <l>Sometime ſends forth his glittering Rays.</l>
+               <l>Long time ere <hi>Luther</hi> yet was born,</l>
+               <l>Whom you our Founder name in ſcorn,</l>
+               <l>There were which ſhew'd their enmity</l>
+               <l>Againſt your vile Idolatry. <note n="(e)" place="margin">
+                     <hi>Bertram</hi> wrote againſt Tranſubſtan<g ref="char:EOLhyphen"/>tiation, <hi>ann. 812.</hi> a Biſhop of <hi>Florence</hi> was condemned for teaching that An<g ref="char:EOLhyphen"/>tichriſt was come, <hi>ann. 1114. Arnulph.</hi> was murthered in <hi>Rome,</hi> for preaching againſt the Pope and his Clergy, <hi>anno 1128. Henry,</hi> a Monk, of <hi>Toloſe,</hi> was againſt prayer for the dead, Pilgrimage, Cream, Oyl, &amp;c. <hi>anno 1137. Jo.</hi> of <hi>Sa<g ref="char:EOLhyphen"/>lisbury,</hi> called the Clergy Phariſees, the Pope, Antichriſt, and Rome, Babylon, <hi>1151. Gerard</hi> and <hi>Dulcimus,</hi> which taught the Pope to be Antichriſt, were burnt, with <hi>30.</hi> more, about the years, <hi>1164, 1165, 1166.</hi> The <hi>Waldenſes,</hi> which held in many points againſt the Pope, were in <hi>anno 1167.</hi> and after in<g ref="char:EOLhyphen"/>creaſing in divers places. <hi>Almaris</hi> a Biſhop burnt in <hi>Paris,</hi> for holding a<g ref="char:EOLhyphen"/>gainſt Tranſubſtantiation, Images, Al<g ref="char:EOLhyphen"/>tars, and praying to Saints, <hi>1206.</hi> Ma<g ref="char:EOLhyphen"/>ny in <hi>Suevia</hi> did preach the Pope to be an Heretick in the years <hi>1236, 1237, 38. Groſted,</hi> Biſhop of <hi>Lincoln,</hi> wrote against the Pope, <hi>anno 1246. Arnold de Nova Villa,</hi> againſt Maſſes and Sacrifices for the dead taught, that the Popes belief was the Devils belief, <hi>ann. 1259.</hi> All Hiſtories are full of the like examples: theſe few may ſerve for a taſte, to ſatisfie an indifferent reader, and to stop their mouths, who ſay, none were heard of, of our Religion and Church till <hi>Luther.</hi>
+                  </note>
+               </l>
+               <l>But now the Lord hath let us ſee</l>
+               <l>Your Antichriſts deformity:</l>
+               <l>That all men might him fully know,</l>
+               <l>Before his final Overthrow.</l>
+               <l>Our Paſtor chief <note n="(f)" place="margin">1 Pet. 5.4.</note> in Heaven did ſit,</l>
+               <l>And ſo doth ſtill, ſaith holy Writ: <note n="(g)" place="margin">Acts 4.21.</note>
+               </l>
+               <l>On earth, Univerſal Prieſt,</l>
+               <l>None dare be call'd but Antichriſt. <note n="(h)" place="margin">
+                     <hi>Gregory</hi> the Great, a Biſhop of Rome, ſaid, that who<g ref="char:EOLhyphen"/>ſo calleth himſelf, or deſireth to be called Univerſal Biſhop, is the fore-runner of Antichriſt, <hi>Epiſt. ad Eulogium.</hi> lib. <hi>7.</hi>
+                  </note>
+               </l>
+               <l>He that our Church and Keys had ſought,</l>
+               <l>By tokens in the Scripture taught,</l>
+               <l>Our Church and Keys he might have found,</l>
+               <l>Even when the World was moſt unſound.</l>
+               <l>Building of Churches nothing makes</l>
+               <l>For that which here thou undertakes:</l>
+               <l>For then commend <hi>Demetrius,</hi>
+               </l>
+               <l>Who builded Shrines at <hi>Epheſus.</hi>
+                  <note n="(i)" place="margin">Acts 19.24.</note>
+               </l>
+               <l>Well may the heathen People boaſt</l>
+               <l>Of Piramees and Churches coſt:</l>
+               <l>In Houſes made, God doth not dwell,</l>
+               <l>As holy Scripture doth us tell. <note n="(k)" place="margin">Acts 7.48.</note>
+               </l>
+               <l>Yet neither all the Churches here,</l>
+               <l>Erected by the Papiſts were:</l>
+               <l>Nor are by us aboliſhed</l>
+               <l>Places where God is worſhipped.</l>
+               <l>If private men have evil done,</l>
+               <l>For it blame not Religion?</l>
+               <l>Thoſe men that do Church-ſpoyling love,</l>
+               <l>Our Faith and Church doth not approve.</l>
+               <pb n="30" facs="tcp:39011:19"/>
+               <l>Thoſe Cells and Dens of Idleneſs,</l>
+               <l>And Nurſeries of Wickedneſs,</l>
+               <l>Upon good cauſes were diſplac'd,</l>
+               <l>As <hi>Baals</hi> Temples were defac'd. <note n="(l)" place="margin">2 Kings 10.</note>
+               </l>
+               <l>
+                  <note n="†" place="margin">Touching <hi>Luthers</hi> Marriage.</note> A lawleſs Vow <note n="(m)" place="margin">It is well called a lawleſs Vow, be<g ref="char:EOLhyphen"/>cauſe it is of a thing which is not in mans power. If it be ſaid that by fa<g ref="char:EOLhyphen"/>ſting and prayer it may be performed, and continency obtained; I anſwer, the gifts of God are two-fold: Some com<g ref="char:EOLhyphen"/>mon to all Believers, as Faith, <hi>&amp;c.</hi> Some peculiar to ſome onely, as this of Continency: Now, if by faſting and prayer we labour for the firſt ſort, we ſhall in ſome meaſure receive them: but we have not the like aſſurance for the gifts of the latter ſort, becauſe (it may be) the Lord is pleaſed otherwiſe to diſpoſe. Now to make ſuch a Vow, is a ſin, but to perſiſt in it, is a double evil.</note> of ſingle life,</l>
+               <l>
+                  <hi>Luther</hi> well brake, and took a wife.</l>
+               <l>Better the pure and ſpotleſs Bed, <note n="(n)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Heb. 13.4.</note>
+               </l>
+               <l>Then by unclean luſts to be led. <note n="(o)" place="margin">1 Cor. 7.9.</note>
+               </l>
+               <l>Better the married Chaſtity, <note n="(p)" place="margin">Papiſts do oppoſe marriage and cha<g ref="char:EOLhyphen"/>ſtity; but <hi>Paul</hi> bids young women to be chaſt, and ſubject to their Husbands, <hi>Tit. 2.4, 5.</hi>
+                  </note>
+               </l>
+               <l>Then violent Virginity:</l>
+               <l>They ought not ſingle to remain,</l>
+               <l>Who are not gifted to contain. <note n="(q)" place="margin">1 Cor. 7.9.</note>
+               </l>
+               <l>Wedlock it ſelf cannot defile,</l>
+               <l>It hath an honourable ſtile: <note n="(r)" place="margin">Heb. 13.4.</note>
+               </l>
+               <l>God doth it not to each man give,</l>
+               <l>Without the Marriage Bonds to live. <note n="(ſ)" place="margin">
+                     <hi>Mat. 19.11.</hi> And it is allowed to a Biſhop to be the Husband of one Wife, <hi>1 Tim. 3.2.</hi>
+                  </note>
+               </l>
+               <l>The forced vows of ſingleneſs,</l>
+               <l>Have brought forth beaſtly filthineſs:</l>
+               <l>Thou maiſt behold in Hiſtory,</l>
+               <l>The fruits of Monkiſh Lechery. <note n="(t)" place="margin">There were <hi>6000.</hi> Infants heads found in Pope <hi>Gregories</hi> Mote, as ap<g ref="char:EOLhyphen"/>pears by the letter of <hi>Volutianus,</hi> Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Carthage,</hi> or as ſome think, of <hi>Huldericus</hi> (Biſhop of <hi>Auguſta</hi>) to Pope <hi>Nicholas:</hi> againſt the forbidding of Prieſts marriage.</note>
+               </l>
+               <l>Thy poyſoned Tongue doth further reach,</l>
+               <l>The noble <hi>Saxon</hi> to impeach:</l>
+               <l>Becauſe to truth he did encline,</l>
+               <l>Thou calleſt him a Libertine.</l>
+               <l>When God was pleas'd to let him ſee</l>
+               <l>How Chriſt his death hath made us free,</l>
+               <l>Then did he deem it ſlavery</l>
+               <l>To bear the <hi>Romiſh Tyranny.</hi>
+               </l>
+               <l>Though <hi>Antichriſt</hi> did <hi>Rome</hi> poſſeſs,</l>
+               <l>
+                  <note n="†" place="margin">Who kept the Scriptures.</note> You kept the Scriptures I confeſs:</l>
+               <l>And in that long Apoſtacy,</l>
+               <l>Thoſe Books were in your cuſtody.</l>
+               <l>So I a Pirate falſe have known,</l>
+               <l>To keep the Goods were not his own;</l>
+               <l>And in the Ship to rule and raign,</l>
+               <l>When the right Owner hath been ſlain.</l>
+               <l>So did the <hi>Jewiſh Synagogue,</hi>
+               </l>
+               <l>Safely keep <hi>Moſes Decalogue,</hi>
+               </l>
+               <l>And th' other Books, <note n="(u)" place="margin">
+                     <hi>Viz.</hi> The Prophets and Pſalms, for ſo is the old Teſtament divided, <hi>Moſes</hi> the Prophets, and Pſalms, <hi>Luk. 24.44.</hi>
+                  </note> when cruelly</l>
+               <l>They did Chriſt Jeſus crucifie.</l>
+               <pb n="31" facs="tcp:39011:19"/>
+               <l>
+                  <note n="†" place="margin">Touching the calling of Miniſters.</note> The Paſtors which did firſt reſtore</l>
+               <l>The truth which long lay hid before,</l>
+               <l>Thereto were called lawfully,</l>
+               <l>And even by your Authority:</l>
+               <l>You did them Prieſts and Doctors make,</l>
+               <l>And they from you this charge did take, <note n="*" place="margin">In their admittance.</note>
+               </l>
+               <l>That they the Truth ſhould ſoundly preach,</l>
+               <l>And in the ſame the People teach.</l>
+               <l>Hereto you cauſed them to ſwear,</l>
+               <l>That to the Faith they ſhould adhere,</l>
+               <l>And never ſhould Errors endure,</l>
+               <l>That were againſt the Doctrine pure.</l>
+               <l>That whereunto you did them call,</l>
+               <l>Full well they have performed all:</l>
+               <l>Truth they have ſought to propagate,</l>
+               <l>And Hereſies to ruinate.</l>
+               <l>As we account your Baptiſm true,</l>
+               <l>And never do the ſame renew: <note n="†" place="margin">Yet it followeth not hereupon that Rome is a true Church: There is in the Papacy a certain hidden Church, and to it that Sacrament appertains. Cir<g ref="char:EOLhyphen"/>cumciſion was uſed of old, even among the <hi>Samaritans.</hi>
+                  </note>
+               </l>
+               <l>So may you make a lawful Prieſt,</l>
+               <l>Yet be not the pure Church of Chriſt:</l>
+               <l>We know that now you wiſer be,</l>
+               <l>And ſwear your Prieſts to Popery, <note n="(x)" place="margin">In their Oaths and Admiſſions, they put in this clauſe, (The Catholick and Apoſtolick Church of Rome) which in elder times was not uſed.</note>
+               </l>
+               <l>And bind them to maintain the ſtate</l>
+               <l>Of your three-crowned Potentate.</l>
+               <l>See now (O Papiſt) thou recant,</l>
+               <l>Th' art anſwer'd by a Proteſtant.</l>
+               <l>I counſel thee, if thou be wiſe,</l>
+               <l>No new evaſions to deviſe.</l>
+               <l>Thy tale of <hi>Ethelbert</hi> of <hi>Kent,</hi>
+               </l>
+               <l>Is but a ſlender Argument: <note n="(y)" place="margin">It is alſo anſwered before.</note>
+               </l>
+               <l>It skills not whence the Faith was brought,</l>
+               <l>Or who it firſt amongſt us taught.</l>
+               <l>Let us into the Scriptures look, <note n="(z)" place="margin">Eſay 8.20.</note>
+               </l>
+               <l>And duly ſearch <note n="(a)" place="margin">John 5.39. Acts 17.11.</note> that holy Book:</l>
+               <l>Thence ſhall we know wch <hi>Church</hi> to leave,</l>
+               <l>And unto which alone to cleave. <note n="(b)" place="margin">We have found Chriſt in the Scrip<g ref="char:EOLhyphen"/>tures, there we muſt alſo find the Church, <hi>Aug. de Paſtoribus.</hi>
+                  </note>
+               </l>
+               <l>Thoſe ſwelling words <note n="(c)" place="margin">2 Pet. 2.18.</note> of Unity,</l>
+               <l>Succeſſion, and Antiquity,</l>
+               <l>Are but poor groundleſs fantaſies,</l>
+               <l>To blind the ſimple peoples eyes,</l>
+               <pb n="32" facs="tcp:39011:20"/>
+               <l>Though that an Angel thou ſhouldſt ſee,</l>
+               <l>Let him (ſaith <hi>Paul</hi>) accurſed be, <note n="(d)" place="margin">Gal. 1.8.</note>
+               </l>
+               <l>If from the Scripture he doth erre,</l>
+               <l>Account him not Gods Miniſter.</l>
+               <l>If one ariſe, and wonders ſhow,</l>
+               <l>Seeking the truth to overthrow,</l>
+               <l>Though that might ſeem a motive ſtrong,</l>
+               <l>Yet unto him death doth belong. <note n="(e)" place="margin">Deut. 13.1, 2, 5.</note>
+               </l>
+               <l>If threeſcore Biſhops here, and three,</l>
+               <l>Have been with us ſucceſſively,</l>
+               <l>It either proves our Church is true,</l>
+               <l>Or elſe that mark makes nought for you.</l>
+               <l>That Faith for which <hi>Peter</hi> was ſlain,</l>
+               <l>Our Engliſh Church doth ſtill retain:</l>
+               <l>We hear the Voice of CHRIST JESU, <note n="(f)" place="margin">John 10.27.</note>
+               </l>
+               <l>Who is the SON of GOD moſt true.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:39011:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
